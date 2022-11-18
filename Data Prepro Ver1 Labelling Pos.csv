@@ -1,0 +1,693 @@
+score;text;klasifikasi
+1;['kepoh', 'persada', 'indah', 'rumah', 'murah', 'subsidi', 'terbaik', 'di', 'dalam', 'lingkungan', 'pedesaan', 'yang', 'asri', 'dan', 'dekat', 'dengan', 'kota', 'purwodadi', 'grobogan', 'jawa', 'tengah', 'pembiayaan', 'di', 'dukung', 'oleh', 'bri', 'semakin', 'memudahkan', 'anda', 'dalam', 'memiliki', 'rumah', 'cantik', 'ini'];Positif
+1;['sebetulnya', 'beberapa', 'penyedia', 'layanan', 'berbasi', 'teknolog', 'sudah', 'mencoba', 'melakukan', 'inovasi', 'seperti', 'foto', 'ktp', 'bersamaan', 'dengan', 'orangnya', 'tapi', 'ya', 'lagi', 'umumnya', 'penjahat', 'atau', 'langkah', 'lebih', 'di', 'depan', 'para', 'calon', 'korbannya'];Positif
+1;['wkwkw', 'yah', 'fs', 'dipantau', 'pun', 'makin', 'nambah', 'episodenya', 'mend', 'dicuekin', 'ajamakin', 'dipantau', 'makin', 'panjang', 'dramanya', 'dah', 'serahkan', 'aja', 'kepada', 'allah', 'selaku', 'hakim', 'yg', 'seadil', 'adilnyahidup', 'di', 'dunia', 'hanya', 'smntara', 'orang', 'orang', 'dzalim', 'pasti', 'akan', 'diadili'];Positif
+1;['twitter', 'do', 'your', 'magic', 'bismillah', 'semoga', 'allah', 'swt', 'titipkan', 'rezeki', 'di', 'hari', 'yang', 'berkah', 'ini', 'melalui', 'aamiin', 'allahumma', 'aamiin', 'bjorka'];Positif
+1;['bang', 'sini', 'bang', 'ngopi', 'jaktim', 'lo', 'orang', 'asik', 'banget', 'langsung', 'aja', 'sini', 'sokin', 'rumah', 'gua', 'kita', 'ngopi'];Positif
+1;['terima', 'jasa', 'pembuatan', 'aplikasi', 'android', 'untuk', 'skripsi', 'tuga', 'akhir', 'dan', 'kebutuhan', 'lainnya', 'harga', 'dijamin', 'bersahabat', 'buat', 'yang', 'berminat', 'silahkan', 'dm'];Positif
+1;['nah', 'ini', 'ketemu', 'mereka', 'sama', 'kehutanan', 'jurusan', 'teknolog', 'hasil', 'hutan', 'skripsinya', 'mirip', 'beda', 'loku', 'aja', 'jkw', 'yg', 'pake', 'kacamata', 'itu', 'om', 'gw', 'yg', 'jabat', 'tangan', 'dan', 'yg', 'barisan', 'ata', 'tengah', 'foto', 'wisuda'];Positif
+1;['pilpr', 'jadikan', 'indonesia', 'bermartabat', 'berwibawa', 'dan', 'terhormat', 'di', 'mata', 'dunia', 'dengan', 'mendukung', 'ani', 'menjadi', 'presiden', 'indonesia', 'insyaallah', 'presiden', 'indonesia', 'nanti', 'aamiin', 'hongkong', 'vietnam', 'azrul', 'ananda', 'nino'];Positif
+1;['kenapa', 'bjorka', 'tetap', 'dapet', 'dukungan', 'ya', 'padah', 'dia', 'udah', 'jual', 'datadata', 'pribadi', 'publik', 'dia', 'lebih', 'cocok', 'disebut', 'pahlawan', 'atau', 'penjahat'];Positif
+1;['presiden', 'joko', 'widodo', 'atau', 'jokowi', 'bertemu', 'dengan', 'perwakilan', 'relawan', 'sekretariat', 'nasion', 'sekna', 'jokowi', 'di', 'istana', 'negara', 'pertemuan', 'itu', 'jokowi', 'meminta', 'para', 'relawan', 'membantu', 'menyukseskan', 'program', 'pemerintah'];Positif
+1;['udah', 'kaya', 'di', 'film', 'ya', 'kisah', 'munir', 'perlu', 'banget', 'sih', 'di', 'ungkap', 'sama', 'bjorka', 'inim'];Positif
+1;['sedia', 'layanan', 'jasa', 'hackperbaikan', 'dan', 'sadap', 'akun', 'ya', 'kak', 'order', 'klik', 'pesan', 'd', 'bawah'];Positif
+1;['pale', 'tidak', 'dalam', 'kontek', 'aks', 'pelayanan', 'publik', 'gimana', 'caranya', 'masyarakat', 'bakal', 'lebih', 'aman', 'dan', 'nyaman', 'misal', 'ya', 'pake', 'mekanism', 'identita', 'digit', 'berbasi', 'kriptografi', 'tadi', 'dibandingkan', 'ektp', 'yg', 'e', 'nya', 'ternyata', 'merek', 'epson'];Positif
+1;['bkn', 'jagonya', 'mengkritik', 'aja', 'tapi', 'ga', 'bisa', 'kasih', 'solusi', 'buat', 'negara', 'kita', 'percuma', 'modal', 'bacot', 'aja'];Positif
+1;['hiii', 'helloo', 'kakk', 'yukk', 'boleh', 'order', 'di', 'akuu', 'lagi', 'ada', 'promo', 'nih', 'kakk', 'boleh', 'dilihat', 'dulu', 'pricelistnya', 'discrol', 'sampai', 'bawah', 'yaa', 'kakk', 'siapa', 'tau', 'cocokk'];Positif
+1;['hahah', 'salim', 'dulu', 'sama', 'temennya', 'kalian', 'berdua', 'kan', 'se', 'aliran'];Positif
+1;['kek', 'ga', 'punya', 'tuhan', 'aja', 'takut', 'sama', 'ibli', 'penguasa', 'negara'];Positif
+1;['galah', 'mestinta', 'dimulai', 'dari', 'buat', 'statu', 'watsapp', 'dicari', 'pelaku', 'hacker', 'bjorka', 'ntar', 'di', 'ss', 'sama', 'temen', 'kontak', 'lalu', 'ketemu', 'deh'];Positif
+1;['cuman', 'gertakan', 'aja', 'biar', 'seolah', 'olah', 'pemerintah', 'fine', 'fine', 'aja', 'padah', 'kalau', 'dilihat', 'sisi', 'dalam', 'nya', 'aduh', 'anjir', 'bisa', 'gini'];Positif
+1;['respon', 'hacker', 'bjorka', 'ribuan', 'maba', 'um', 'surabaya', 'gelar', 'aksi', 'typographi', 'art', 'surabaya', 'merespon', 'hacker', 'bjorka', 'sebanyak', 'mahasiswa', 'baru', 'universita', 'muhammadiyah'];Positif
+1;['lulusan', 'sistem', 'informasi', 'banyak', 'dicari', 'oleh', 'perusahaan', 'yang', 'pent', 'adalah', 'tetap', 'gunakan', 'keahlian', 'kita', 'dalam', 'hal', 'yang', 'positif', 'ya', 'sobat', 'kuliah', 'bsi', 'aja'];Positif
+1;['hasil', 'live', 'draw', 'japan', 'septemb', 'result', 'shio', 'kamb', 'result', 'result', 'selamat', 'kepada', 'para', 'pemenang'];Positif
+1;['menurut', 'awak', 'sbgai', 'org', 'awam', 'kasu', 'brigadir', 'j', 'lebih', 'pent', 'dr', 'bbm', 'turun', 'lebih', 'pent', 'dr'];Positif
+1;['upsssfollow', 'eko', 'ngamuk', 'maaf', 'ya', 'nikmati', 'hadirnya', 'mubahalah', 'dalam', 'hidupmu', 'lu', 'akan', 'dihantui', 'ketakutan', 'setiap', 'saat', 'hidup', 'ga', 'tenang', 'makan', 'ga', 'nyaman'];Positif
+1;['yg', 'mau', 'cetak', 'foto', 'cetak', 'foto', 'lg', 'promo', 'di', 'shope', 'qaqaa'];Positif
+1;['wiiihhhhh', 'gae', 'asli', 'serem', 'banget', 'kisah', 'cenayang', 'ini', 'gaess', 'cusss', 'langsung', 'aja', 'ke', 'channelnya', 'sourc', 'youtub', 'nexera', 'entertain', 'link', 'youtub'];Positif
+1;['batman', 'dalam', 'film', 'america', 'yo', 'ko', 'dalam', 'film', 'mandarin', 'bjorka', 'dalam', 'realita', 'indonesia', 'pahlawan', 'bertopeng', 'pembela', 'yang', 'lemah', 'keren', 'banget'];Positif
+1;['bagu', 'banget', 'gk', 'sih', 'nih', 'blous', 'motif', 'bunga', 'korean', 'style', 'cocok', 'deh', 'buat', 'kalian', 'tag', 'suga', 'hyung', 'happi', 'birthday', 'my', 'love', 'fandom', 'hug', 'win', 'mva', 'no', 'matter', 'what', 'hobi', 'senin'];Positif
+1;['forum', 'ustadz', 'dan', 'santri', 'purwakarta', 'dukung', 'penuh', 'airlangga', 'hartarto', 'untuk', 'jadi', 'presiden'];Positif
+1;['banyak', 'akun', 'nya', 'dok', 'bjorka', 'tambah', 'lucu', 'yg', 'asli', 'udh', 'hilang'];Positif
+1;['kadrun', 'yg', 'menyanjung', 'bjorka', 'menunjukkan', 'kegoblokan', 'hakiki', 'umat', 'kadrun', 'mau', 'aja', 'dikibulin', 'harapan', 'kosong', 'jd', 'ingat', 'tagar', 'jd', 'ingat', 'ratna', 'sarumpaet', 'operasi', 'plastik', 'jd', 'ingat', 'prabowo', 'pilihan', 'ijtima', 'ulama'];Positif
+1;['ide', 'judul', 'skripsi', 'manajemen', 'sumberdaya', 'manusia', 'follow', 'ig', 'for', 'more', 'utk', 'updat', 'judul', 'dll', 'yahhhh'];Positif
+1;['dan', 'dari', 'di', 'jebol', 'data', 'pemerintah', 'malah', 'dapet', 'dukungan', 'rakyat', 'indonesia', 'ingat', 'broo', 'manusia', 'punya', 'rasa', 'bangga', 'diri', 'semakin', 'di', 'puja', 'semakin', 'semangat', 'dan', 'dia', 'juga', 'punya', 'temen', 'orng', 'indo'];Positif
+1;['persen', 'lebih', 'murah', 'dari', 'harga', 'pasar', 'internasion', 'jokowi', 'pantau', 'opsi', 'impor', 'minyak', 'dari', 'rusia', 'selengkapnya'];Positif
+1;['jual', 'flat', 'shoe', 'gabino', 'ygi', 'sizenya', 'kebesaran', 'harganya', 'k', 'aja', 'ygi'];Positif
+1;['sama', 'sama', 'nism', 'nih', 'bagi', 'kerjaan', 'kali'];Positif
+1;['akun', 'twitter', 'diduga', 'bjorka', 'asli', 'muncul', 'langsung', 'ajak', 'netizen', 'buat', 'keributan'];Positif
+1;['halo', 'kak', 'selamat', 'sianghek', 'room', 'apartemen', 'sudah', 'readi', 'kembali', 'yaa', 'happi', 'birthday', 'my', 'love', 'start', 'from', 'rb', 'untuk', 'pemesanan', 'happi', 'weekday'];Positif
+1;['senin', 'siang', 'ini', 'ngapain', 'cuss', 'yang', 'mau', 'privat', 'vc', 'kuy', 'real', 'angel', 'real', 'akun', 'dijamin', 'trust', 'bisa', 'sekarang', 'ya', 'beb', 'wa', 'cuss', 'wa'];Positif
+1;['kasu', 'sambo', 'bjorkan', 'ngasih', 'tanggapan', 'di', 'telegram', 'real', 'nya', 'u', 'can', 'about', 'sambo', 'to', 'him', 'becaus', 'sambo', 'is', 'hi', 'guy', 'dan', 'dengan', 'data', 'pribadi', 'nya', 'menteri', 'dalam', 'negeri', 'muhammad', 'tito', 'karnavian', 'atau', 'jender', 'polisi', 'prof', 'dr', 'h', 'muhammad', 'tito', 'karnavian', 'ma', 'apakah', 'ada', 'hub', 'dgn', 'bptito'];Positif
+1;['dijual', 'jam', 'tangan', 'mulai', 'harga', 'k'];Positif
+1;['readi', 'jam', 'tangan', 'murah', 'dimulai', 'harga', 'rb', 'aja', 'bisa', 'cek', 'tokopedia', 'dan', 'shopp', 'kita', 'disini'];Positif
+1;['readi', 'origin', 'sensor', 'jaket', 'pria', 'premium', 'kren', 'dan', 'murah', 'meriah', 'buruan', 'sebelum', 'terlambat', 'link'];Positif
+1;['yup', 'but', 'gener', 'you', 'reap', 'what', 'to', 'sow', 'biasanya', 'kalau', 'orang', 'jualan', 'arang', 'ya', 'masak', 'mau', 'disimpan', 'dengan', 'nama', 'bakul', 'roti', 'lah', 'wong', 'customernya', 'mba', 'mei', 'apa', 'ya', 'sama', 'mba', 'mei', 'mau', 'dituli', 'donatur', 'panti', 'tapi', 'emang', 'sih', 'kadang', 'mungkin', 'saja', 'mba', 'mei', 'disimpan', 'dengan', 'nama', 'dark', 'angel'];Positif
+1;['kurang', 'bayar', 'tunjangan', 'kinerja', 'pn', 'tniau', 'yg', 'tak', 'sesuai', 'aturan', 'juga', 'terjadi', 'dan', 'presiden', 'ri', 'sudah', 'sy', 'lapori', 'sjak', 'hasilnya', 'mandul', 'lapor', 'kometarnya', 'ditunggu', 'netizen'];Positif
+1;['ini', 'pasti', 'campur', 'tangan', 'pemerintah', 'dan', 'buzzzerr'];Positif
+1;['hi', 'kak', 'bisa', 'bukain', 'akun', 'ig', 'lupa', 'password', 'ga', 'buka', 'jasa', 'aja', 'kak'];Positif
+1;['upaya', 'untuk', 'meminta', 'tambahan', 'anggaran', 'dgn', 'kehadiran', 'biar', 'terkesan', 'kebutuhan', 'mendesak', 'usaha', 'teru'];Positif
+1;['sama', 'aja', 'kita', 'penikmat', 'konten', 'mreka', 'aja'];Positif
+1;['and', 'shame', 'on', 'you', 'twitter', 'the', 'show', 'must', 'go', 'on', 'tp', 'pasti', 'bisa', 'ngutak', 'atik', 'twitter', 'juga', 'sih', 'ya', 'harusnya'];Positif
+1;['buzzerrp', 'ketarketir', 'datanya', 'udah', 'di', 'tangan', 'siapa', 'yg', 'mo', 'mampir', 'ngopi', 'ke', 'rumah', 'di', 'wonokromo'];Positif
+1;['ya', 'lu', 'tolol', 'juara', 'korupsi', 'di', 'negara', 'ini', 'partai', 'siapa', 'pdip', 'berkuasa', 'jual', 'indosat', 'jual', 'negara', 'pk', 'pernah', 'berkuasa', 'lu', 'aja', 'alergi', 'sama', 'islam', 'takut', 'islam', 'tegak', 'yang', 'korup', 'kena', 'potong', 'tangan'];Positif
+1;['giliran', 'situ', 'bokep', 'lincah', 'bet', 'ngebloknya', 'giliran', 'yg', 'kek', 'gini', 'angkat', 'tangan'];Positif
+1;['beginilah', 'kalo', 'orang', 'kerja', 'gak', 'sesuai', 'bidangnya', 'contoh', 'nya', 'tukang', 'sayur', 'bekerja', 'di', 'bengkel', 'ya', 'jadi', 'tambah', 'rusak', 'itu', 'motor', 'wkwkw', 'suka', 'lucu', 'sama', 'pemerintahan', 'sekarang'];Positif
+1;['hadir', 'di', 'tengah', 'harga', 'bbm', 'naik', 'dan', 'issu', 'lainnya'];Positif
+1;['ya', 'kan', 'elu', 'yg', 'bilang', 'seneng', 'aja', 'sama', 'bjorka'];Positif
+1;['wkwkwk', 'elunya', 'aja', 'gak', 'bisa', 'terima', 'kenyataan', 'bro', 'makanya', 'elu', 'malu'];Positif
+1;['ya', 'kita', 'lihat', 'dulu', 'perkembangan', 'yg', 'sedang', 'terjadi'];Positif
+1;['ga', 'sabar', 'ngeliat', 'orang', 'orang', 'sok', 'punya', 'power', 'di', 'negeri', 'ini', 'dikulitin', 'satu', 'persatu', 'sama'];Positif
+1;['wkwkwk', 'baru', 'aja', 'mulai', 'debutnya', 'di', 'twitter', 'udah', 'kenah', 'ban'];Positif
+1;['wkwkwk', 'baha', 'bjorka', 'kok', 'bisa', 'sampai', 'ke', 'cebong', 'kadrun', 'wkwkw', 'gk', 'punya', 'statement', 'ya', 'boy'];Positif
+1;['aku', 'percaya', 'ama', 'kalian', 'wkkwkwk', 'sama', 'saja', 'percaya', 'sama', 'baliho', 'kwkwkw'];Positif
+1;['manyosss', 'mantapp', 'jossss', 'id', 'dan', 'sensat', 'juta', 'main', 'di', 'game', 'sweet', 'bonanza', 'breee', 'klik', 'aja', 'cuma', 'di', 'daywinbet', 'main', 'dan', 'menang'];Positif
+1;['muhammad', 'agung', 'hidayatullah', 'mah', 'pemuda', 'asal', 'madiun', 'jawa', 'timur', 'kini', 'menjadi', 'tersangka', 'karena', 'diduga', 'membantu', 'aksi', 'bjorka', 'blakblakan', 'mengakui', 'dirinya', 'tak', 'punya', 'kemampuan', 'mereta', 'atau', 'menghack'];Positif
+1;['lewat', 'tengah', 'malam', 'melacak', 'keberadaan', 'hekel', 'bjorka', 'madiun', 'cirebon', 'dimana', 'ya', 'ini', 'teh', 'apel', 'sama', 'wafer', 'enak'];Positif
+1;['terungkap', 'identita', 'asli', 'hacker', 'bjorka', 'media', 'sosial', 'indonesia', 'terutama', 'twitter', 'sedang', 'ramai', 'memperbincangkan', 'nama', 'bjorka', 'sumber', 'selengkapnya'];Positif
+1;['jika', 'tujuan', 'peretasan', 'demi', 'kebaikan', 'boleh', 'ya'];Positif
+1;['menkominfo', 'akan', 'hadapi', 'hacker', 'bjorka', 'dengan', 'cara', 'ini', 'johnni', 'g', 'plate', 'selaku', 'menteri', 'komunikasi', 'dan', 'informasi', 'menkominfo', 'menyatakan', 'pemerintah', 'akan', 'segera', 'membuat', 'emerg', 'respons', 'team', 'untuk'];Positif
+1;['bjorka', 'jaya', 'jaya', 'jaya'];Positif
+1;['enak', 'emang', 'ya', 'pakai', 'hastag', 'viral', 'jadi', 'panso', 'aku', 'contohnya', 'dan', 'akun', 'michat', 'lainnya'];Positif
+1;['asli', 'nikalau', 'asli', 'kasih', 'tandadoank'];Positif
+1;['ok', 'gaess', 'saya', 'berharap', 'kepada', 'kalian', 'semua', 'tinggalkan', 'fenomena', 'bjorka', 'biarkan', 'itu', 'pemerintah', 'yg', 'punya', 'urusan', 'pekerjaan', 'nya', 'tetap', 'foku', 'turunkan', 'harga', 'bbm', 'dan', 'pantau', 'teru', 'kasu', 'sambo', 'bjorka', 'umpan', 'lambung'];Positif
+1;['selalu', 'aku', 'pantau', 'good', 'job'];Positif
+1;['mah', 'akhirnya', 'dipulangkan', 'oleh', 'polisi', 'namun', 'ia', 'pulang', 'membawa', 'statu', 'tersangka', 'polisi', 'menyebut', 'mah', 'berperan', 'membantu', 'sosok', 'bjorka', 'asli', 'dengan', 'membuat', 'grup', 'telegram', 'bjorkan'];Positif
+1;['hadiah', 'atau', 'kado', 'al', 'jumbo', 'untuk', 'orangtua', 'kakek', 'nenek', 'om', 'tant', 'a', 'thread', 'princ', 'andrew', 'iq'];Positif
+1;['tahun', 'kita', 'punya', 'radio', 'rebel', 'tahun', 'kita', 'punya', 'bjorkan'];Positif
+1;['bbm', 'pertalit', 'dan', 'pertamax', 'akan', 'dihapu', 'berikut', 'penjelasannya', 'lihat', 'selengkapnya', 'disini'];Positif
+1;['ingin', 'peroleh', 'keuntungan', 'kok', 'viralkan', 'jilat', 'penguasa', 'pasti', 'dapat', 'keuntungan'];Positif
+1;['heboh', 'hacker', 'bjorka', 'beri', 'pujian', 'pada', 'presiden', 'jokowi', 'usai', 'diduga', 'buat', 'keputusan', 'bijak', 'copot', 'jabatan', 'menteri'];Positif
+1;['lebih', 'percaya', 'bjorka', 'si', 'daripada', 'orang', 'orang', 'ata'];Positif
+1;['aksi', 'bjorka', 'buat', 'puse', 'pemerintah', 'siapakah', 'sebenarnya', 'banyuwangi', 'memaafkan', 'bonek', 'kepala', 'desa', 'siang', 'ryeowook', 'lewat'];Positif
+1;['ade', 'menjelaskan', 'peran', 'mah', 'yaitu', 'menyiapkan', 'chanel', 'telegram', 'bernama', 'mah', 'disebut', 'mempost', 'sebanyak', 'tiga', 'kali', 'di', 'channel', 'telegram', 'tersebut'];Positif
+1;['buset', 'konten', 'pale', 'gacor', 'ini', 'mah', 'si', 'yak', 'wkwkwk', 'ajak', 'temen', 'keluarga', 'atau', 'pacar', 'kalian', 'geng', 'nonton', 'di', 'channelnnya', 'sourc', 'youtub', 'nexera', 'entertain', 'link', 'youtub'];Positif
+1;['bjorka', 'asli', 'menertawakan', 'kesalahan', 'polisi', 'dan', 'mengungkap', 'rahasianya', 'menyebut', 'nama', 'jokowi', 'dan', 'johnni', 'g', 'plate', 'baca', 'selengkapnya'];Positif
+1;['rame', 'memburu', 'oleh', 'pemerintah', 'para', 'bo', 'pemburunya', 'jendral', 'dg', 'keahlian', 'di', 'senjata', 'api', 'dan', 'bom'];Positif
+1;['menkominfo', 'diganti', 'sama', 'bjorka', 'aja', 'ygi'];Positif
+1;['jgn', 'lupa', 'ada', 'kasu', 'baru', 'di', 'semarang', 'seorang', 'asn', 'dimutilasi', 'dan', 'dibakar', 'karena', 'menjadi', 'saksi', 'korupsi', 'tanah', 'di', 'jawa', 'tengah', 'tapi', 'belum', 'blow', 'up', 'aneh', 'aja', 'sih', 'koruptor', 'menyewa', 'pembunuh', 'bayaran', 'untuk', 'membunuh', 'saksi'];Positif
+1;['jam', 'blackpink', 'led', 'light', 'acryl', 'diskon', 'up', 'to', 'jika', 'click', 'link', 'dibawah', 'ran', 'maljum', 'kepala', 'desa', 'islam', 'dudung', 'ngehack', 'madiun', 'mown'];Positif
+1;['ini', 'teh', 'apa', 'lagi', 'ya', 'allah', 'gapunya', 'komput', 'jual', 'es', 'hacker', 'keren', 'bgt'];Positif
+1;['guy', 'ini', 'dikadoin', 'ke', 'orang', 'dewasa', 'juga', 'bagu', 'bermanfaat', 'madiun', 'io', 'keysa', 'ariel'];Positif
+1;['alhamdulillah', 'beliau', 'dan', 'keluarga', 'senantiasa', 'sehat', 'gimana', 'kabar', 'eko', 'kunthadi', 'dkk', 'kabari', 'ya', 'kalo', 'lu', 'ngerasain', 'sumpah', 'mubahalah', 'jangan', 'diam', 'aja'];Positif
+1;['bahkan', 'kantong', 'ajaib', 'milik', 'doraemon', 'tak', 'mampu', 'mengabulkan', 'keinginan', 'pemerintah', 'konoha', 'untuk', 'mengungkap', 'identita', 'bjorka', 'yg', 'sebenarnya'];Positif
+1;['ayukk', 'yuk', 'daftar', 'di', 'ligaslot', 'sekarang', 'juga', 'kita', 'banyak', 'promo', 'lohhh', 'link'];Positif
+1;['dasar', 'warga', 'pasti', 'diliat', 'dari', 'profil', 'tr', 'ga', 'baca', 'kau', 'belajar', 'baca', 'dulu', 'biar', 'bisa', 'bedain', 'mana', 'yg', 'real', 'mana', 'yg', 'fake'];Positif
+1;['seorang', 'pemuda', 'yang', 'diduga', 'adalah', 'hacker', 'bjorka', 'berhasil', 'diamankan', 'polisi', 'dan', 'langsung', 'dibawa', 'ke', 'mapolsek', 'dagangan', 'untuk', 'menjalani', 'pemeriksaan'];Positif
+1;['motor', 'listrik', 'murah', 'check', 'tanpa', 'bensin', 'cuma', 'di', 'ca', 'doang', 'auto', 'jadi', 'pusat', 'perhatian', 'beli', 'disini', 'hari', 'senin'];Positif
+1;['padah', 'gue', 'blm', 'sempet', 'baca', 'thread', 'sama', 'join', 'tele', 'nya', 'jak'];Positif
+1;['gw', 'yakin', 'sih', 'bjorka', 'itu', 'bukan', 'cebong', 'or', 'kadrun', 'dia', 'org', 'netral', 'heyi', 'dokter', 'situ', 'berpendidikan', 'cara', 'ngomongnya', 'gitu', 'amat', 'dok', 'ud', 'kaya', 'buzzer', 'oposisi', 'klo', 'ngulitin', 'ani', 'baswedan', 'pasti', 'situ', 'langsung', 'berfikir', 'bjorka', 'cebong'];Positif
+1;['ent', 'kadang', 'kadang'];Positif
+1;['hallo', 'erick', 'hai', 'cunul'];Positif
+1;['ide', 'judul', 'skripsi', 'manajemen', 'pemasaran', 'follow', 'ig', 'for', 'more', 'untuk', 'updat', 'judul', 'dll', 'yahhhh'];Positif
+1;['pemerintah', 'indonesia', 'galak', 'amat', 'ya', 'akun', 'ke', 'ilang', 'lagi', 'hey', 'dibayar', 'berapa', 'sih', 'buat', 'lagi', 'yuk'];Positif
+1;['bjorka', 'beri', 'kado', 'mani', 'untuk', 'menkominfo', 'johnni', 'gerard', 'plate', 'di', 'hari', 'ulang', 'tahunnya', 'pertanda', 'perang', 'dimulai'];Positif
+1;['lapor', 'polisi', 'aja', 'ma', 'biar', 'ga', 'tuman', 'manusia', 'ga', 'beradab', 'itu'];Positif
+1;['baju', 'tidur', 'wanita', 'baju', 'celana', 'beli', 'disini', 'viral'];Positif
+1;['ide', 'judul', 'skripsi', 'manajemen', 'pemasaran', 'follow', 'ig', 'for', 'more', 'untuk', 'updat', 'judul', 'dll', 'yahhhh', 'ngerisedap'];Positif
+1;['yuk', 'di', 'lelang', 'permen', 'kiss', 'produksi', 'not', 'normal', 'nb', 'disebelah', 'kanan', 'yang', 'normal', 'seblah', 'kiri', 'not', 'normal'];Positif
+1;['suks', 'gelar', 'kompetisi', 'mobil', 'legend', 'di', 'bekasi', 'restu', 'hapsari', 'tmp', 'sahabat', 'kaum', 'mileni'];Positif
+1;['puan', 'harap', 'dpr', 'indonesia', 'uzbekistan', 'eratkan', 'kerja', 'sama'];Positif
+1;['bjorka', 'teh', 'ngopi'];Positif
+1;['karena', 'mereka', 'lebih', 'ketar', 'ketir', 'sama', 'hacker', 'ketimbang', 'rakyat', 'wkwk', 'apa', 'kita', 'haru', 'buat', 'mereka', 'ketar', 'ketir', 'juga', 'ya', 'dengan', 'meneror', 'rumah', 'mereka', 'nomor', 'tlp', 'mereka', 'yg', 'di', 'bantu', 'krna', 'jasa', 'bjorka', 'juga'];Positif
+1;['yuk', 'aktifin', 'yaaaa', 'trend', 'now', 'bjorka', 'munir', 'pssi', 'senin', 'fifa', 'cat'];Positif
+1;['berani', 'gak', 'ya', 'buka', 'rahasia', 'negara', 'ke', 'publik', 'apa', 'cuman', 'buat', 'gaduh', 'aja'];Positif
+1;['gerbong', 'survey', 'para', 'bedebah', 'mereka', 'sudah', 'mulai', 'bekerja'];Positif
+1;['gojek', 'lakukan', 'penyesuaian', 'tarif', 'ojol', 'dan', 'layanan', 'lainnya'];Positif
+1;['cara', 'investasi', 'saham', 'buat', 'pemula', 'berikut', 'langkah', 'sederhananya'];Positif
+1;['dinkominfo', 'temanggung', 'verifikasi', 'warga', 'calon', 'penerima', 'stb', 'ini', 'jumlahnya', 'selengkapnya'];Positif
+1;['takut', 'efek', 'kipvi', 'dok'];Positif
+1;['masih', 'nih', 'gai', 'k', 'dapet', 'pc', 'kao', 'panjang', 'kapan', 'lagiii', 'yu', 'di', 'co', 'tag', 'bjorka', 'senin', 'kasu', 'sambo', 'munir', 'heker', 'ltmpt'];Positif
+1;['yg', 'jadi', 'perhatian', 'gua', 'malah', 'tentang', 'daya', 'guna', 'data', 'yg', 'udah', 'banyak', 'terlanjur', 'bocor', 'ini', 'untuk', 'keperluan', 'dalam', 'mengaks', 'pelayanan', 'baik', 'di', 'sektor', 'publik', 'atau', 'privat'];Positif
+1;['web', 'nya', 'bisa', 'di', 'aks', 'sama', 'masyarakat', 'umum', 'kah'];Positif
+1;['gmn', 'pemilu', 'nanti', 'kita', 'serentak', 'foto', 'hasil', 'coblo', 'nya', 'biar', 'gk', 'ada', 'tipu', 'kaya', 'si', 'doienak', 'aja', 'mau', 'jadi', 'presiden', 'tapi', 'gk', 'bisa', 'apa', 'apa'];Positif
+1;['loh', 'denni', 'muslim', 'ya'];Positif
+1;['baiknya', 'kita', 'bergandeng', 'tangan', 'buat', 'demo', 'di', 'dumay'];Positif
+1;['membuat', 'gaduh', 'indonesia', 'siapa', 'sebenarnya', 'bjorka', 'lewat'];Positif
+1;['kita', 'lihat', 'seberapa', 'cerda', 'bjorka', 'diband', 'dalam', 'mengungkap', 'kasu', 'sambo', 'and', 'gank'];Positif
+1;['ada', 'org', 'yg', 'menganggap', 'adalah', 'org', 'pemuja', 'petamburan'];Positif
+1;['semoga', 'allah', 'membongkar', 'aib', 'para', 'penjabat', 'laknatullah', 'melalui', 'tukang', 'rujak', 'ini', 'aamiin'];Positif
+1;['kemunculan', 'ini', 'disatu', 'sisi', 'adalah', 'gerakan', 'perlawanan', 'oleh', 'rakyat', 'ini', 'adalah', 'momentum', 'untuk', 'menjadikan', 'rakyat', 'sebagai', 'pelaku', 'perubahan', 'identifikasi', 'rezim', 'ini', 'dan', 'jatuhi', 'hukuman', 'saat', 'pemilu', 'nanti', 'saya', 'sebut', 'ini', 'adalah', 'gate', 'perubahan'];Positif
+1;['alhamdulillah', 'anta', 'build', 'design', 'telah', 'menyelesaikan', 'pembangunan', 'minimarket', 'untuk', 'pondok', 'raudhatut', 'tauhid', 'di', 'bogor', 'semoga', 'bermanfaat', 'untuk', 'kedepannya'];Positif
+1;['lah', 'malah', 'aku', 'sing', 'ditraktir', 'wkwk', 'kuy', 'laah', 'hahaha'];Positif
+1;['buzzerrp', 'ketarketir', 'data', 'nya', 'udah', 'di', 'tangan', 'siapa', 'yg', 'mo', 'mampir', 'ngopi', 'k', 'rumah', 'di', 'wonokromo'];Positif
+1;['ssstttbiarin', 'kadrun', 'girang', 'dl', 'punya', 'hero', 'baru'];Positif
+1;['takut', 'kok', 'sama', 'akun', 'yang', 'up', 'kenyataan', 'takut', 'sama', 'tuhan'];Positif
+1;['buy', 'get', 'free', 'beli', 'masker', 'himalaya', 'dapet', 'free', 'masker', 'lagi', 'bjorka', 'shope', 'sekarang'];Positif
+1;['lah', 'iya', 'bener', 'bisa', 'bantuin', 'buka', 'akun', 'igku', 'yg', 'lupa', 'password', 'ga', 'ya'];Positif
+1;['penjelasan', 'lengkap', 'identita', 'asli', 'pembunuh', 'aktivi', 'ham', 'munir', 'oleh', 'hacker', 'bjorka'];Positif
+1;['flashsal', 'hijab', 'squar', 'rban', 'bella', 'squar', 'warna', 'hijab', 'segiempat', 'dengan', 'harga', 'rp', 'bisa', 'cod', 'dapatkan', 'di', 'shope', 'sekarang'];Positif
+1;['ngurusin', 'orang', 'lu', 'aja', 'sebelum', 'koma', 'spasi', 'dulu'];Positif
+1;['padah', 'kita', 'punya', 'web', 'sosial', 'media', 'kak'];Positif
+1;['dengar', 'jual', 'beli', 'serti', 'aja', 'pada', 'heran'];Positif
+1;['ya', 'bener', 'banget'];Positif
+1;['tetep', 'aja', 'mengijinkan', 'dan', 'dukung', 'male', 'ngacak', 'acak', 'rumah', 'demi', 'ngasih', 'tau', 'kalo', 'satpamnya', 'ga', 'becu', 'jagain', 'rumah', 'gitu'];Positif
+1;['kang', 'sup', 'rs', 'm', 'r', 'aya', 'belum', 'ketemu', 'ini', 'yang', 'asli'];Positif
+1;['diteba', 'juga', 'sama', 'burung', 'biru', 'tuh', 'haker', 'pager', 'doyong', 'kita', 'liat', 'apakah', 'beneran', 'ada', 'pembalasan'];Positif
+1;['oh', 'gt', 'ya', 'dl', 'hari', 'langsung', 'rebuan', 'ga', 'd', 'su', 'yatwict', 'nachkal'];Positif
+1;['buzzerrp', 'ketarketir', 'datanya', 'udah', 'di', 'tangan', 'siapa', 'yg', 'mau', 'mampir', 'ke', 'rumah', 'di', 'wonokromo'];Positif
+1;['ga', 'tertarik', 'dan', 'ga', 'ada', 'kepentingan', 'buat', 'gue', 'melakukan', 'itu'];Positif
+1;['karyawan', 'swasta', 'ya', 'baik'];Positif
+1;['bjorka', 'jilid', 'pasti', 'lebih', 'seru', 'tunggu', 'aja'];Positif
+1;['sabar', 'ya', 'bang', 'padhl', 'niat', 'abng', 'baik'];Positif
+1;['ya', 'kalo', 'tinggalnya', 'di', 'goa', 'jela', 'gak', 'dapet', 'sinyal', 'bro'];Positif
+1;['hackernya', 'penikmat', 'karya', 'karya', 'bjork', 'kali', 'aja', 'di', 'obsess', 'samp', 'pake', 'unam', 'bjorka'];Positif
+1;['temenku', 'ga', 'vaksin', 'aja', 'punya', 'kartu', 'vaksinnya', 'nembak', 'di', 'petuga'];Positif
+1;['cepet', 'amat', 'tele', 'aman', 'kah'];Positif
+1;['langsung', 'hilang', 'ya', 'akunnya'];Positif
+1;['lah', 'kita', 'sama', 'sama', 'di', 'padang', 'bg'];Positif
+1;['pesta', 'sedang', 'di', 'mulai', 'oleh'];Positif
+1;['ternyata', 'bjorka', 'kagak', 'jago', 'jago', 'amat', 'wkwk'];Positif
+1;['moga', 'buat', 'akun', 'baru', 'beliau'];Positif
+1;['oooohhhiya', 'ya', 'buat', 'cokel'];Positif
+1;['teru', 'pertamina', 'dan', 'keroco', 'dpr', 'dulu', 'mereka', 'lebih', 'pent', 'karena', 'nyangkut', 'orang', 'lebih', 'banyak', 'wkwkwk'];Positif
+1;['sabar', 'presiden', 'dulu'];Positif
+1;['ketawa', 'nya', 'pua', 'amat'];Positif
+1;['kukunya', 'panjang', 'amat'];Positif
+1;['cepet', 'amat'];Positif
+1;['wkwkwk', 'itu', 'malah', 'dia', 'membuka', 'kualitasnya', 'kalo', 'cuman', 'kela', 'kecamatan', 'haccker', 'beneran', 'emang', 'mau', 'di', 'request', 'wkwkwk', 'macem', 'lagu', 'aja', 'di', 'request', 'gokil'];Positif
+1;['ribuan', 'nake', 'di', 'luar', 'negri', 'pada', 'resign', 'krna', 'menolak', 'mandat', 'mrka', 'bs', 'hdp', 'jd', 'menurut', 'lu', 'rejeki', 'itu', 'cm', 'dr', 'krja', 'ga', 'percaya', 'tuhan', 'ya'];Positif
+1;['ya', 'emang', 'elu', 'aja', 'nyerahin', 'pengecut'];Positif
+1;['nomor', 'dalam', 'provid', 'sepengalaman', 'pakai', 'ya', 'xl', 'dan', 'axi', 'dianggap', 'provid'];Positif
+1;['ngesearch', 'pake', 'niknya', 'puan', 'di', 'googl', 'langsung', 'dapet'];Positif
+1;['kamu', 'tak', 'paham', 'ya', 'bagaimana', 'seorang', 'denni', 'siregar', 'melawa', 'org', 'yg', 'ngaku', 'oposisi', 'tp', 'hari', 'menjelekkan', 'negaranya', 'pemerintahan', 'sendiri', 'membuat', 'kegaduhan', 'dan', 'mencoba', 'membuat', 'negara', 'ini', 'jatuhsmua', 'pni', 'kepentingan', 'masingmas', 'tergantung', 'dimana', 'kamu', 'berdiri'];Positif
+1;['andai', 'bjorka', 'menjadi', 'menteri', 'kominfo', 'indonesia', 'pasti', 'maju', 'tanpa', 'ganti', 'pasword', 'x', 'setiap', 'hari', 'melebihi', 'sholat', 'wajib'];Positif
+1;['ya', 'bener', 'gan', 'wkwkwk'];Positif
+1;['ada', 'alamat', 'buat', 'kirim', 'cod', 'dildo'];Positif
+1;['presiden', 'klub', 'inter', 'milan', 'aja'];Positif
+1;['ini', 'orang', 'berani', 'bgt', 'smoga', 'selamat', 'ya'];Positif
+1;['hi', 'annyeong', 'hadir', 'kak', 'ridi', 'semua', 'prose', 'cepat', 'murmer', 'juga', 'bisa', 'all', 'ewalletqrispulsa', 'yuuk', 'mari', 'di', 'order', 'dijamin', 'fast', 'respon'];Positif
+1;['bnyk', 'ya', 'bg', 'rikuesnya', 'pasti', 'msh', 'bnyk', 'lg', 'tu', 'hahaha'];Positif
+1;['udah', 'rahasia', 'umum', 'kok', 'di', 'buat', 'thread', 'aneh'];Positif
+1;['iya', 'diluar', 'perkiraan', 'ya'];Positif
+1;['nik', 'dgn', 'tgl', 'lahir', 'tdk', 'sesuai'];Positif
+1;['ilmu', 'anyar', 'suwon'];Positif
+1;['anaknya', 'mama', 'sabai', 'makin', 'aktif', 'yah'];Positif
+1;['hayo', 'mau', 'chatan', 'sama', 'bu', 'puan', 'dipersilahkam'];Positif
+1;['iya', 'berarti', 'gak', 'punya', 'suami', 'dunk'];Positif
+1;['yuk', 'bisa', 'yuk', 'tinggal', 'lord', 'luhut', 'ngab'];Positif
+1;['film', 'pale', 'aneh', 'di', 'duniaminggu', 'pertama', 'penontonnya', 'lebih', 'banyak', 'dedemitnyaminggu', 'kedua', 'tiba', 'penontonnya', 'banyak', 'tapi', 'tdk', 'penuh', 'yahekh', 'selidik', 'punya', 'selidik', 'ternyata', 'yg', 'nonton', 'keluarga', 'besarnyawkwkm'];Positif
+1;['nah', 'kan', 'princ', 'sama', 'desi', 'aja', 'blm', 'booster'];Positif
+1;['apakah', 'ini', 'efek', 'mknya', 'uu', 'pdp', 'disahkan', 'ok'];Positif
+1;['ditunggu', 'balasannya', 'ya', 'kak'];Positif
+1;['wkkww', 'geu', 'pw', 'make', 'basa', 'sunda', 'aku', 'teh', 'pak', 'da', 'mun', 'beneran', 'bang', 'jago', 'mah', 'pasti', 'bisa', 'bahasa', 'naon', 'wae'];Positif
+1;['wkwkwk', 'ini', 'pasti', 'hackker', 'org', 'lokal', 'yg', 'di', 'ula', 'sekarang', 'bang', 'denni'];Positif
+1;['wkwkwkwk', 'woii', 'kira', 'donk', 'ngomong', 'gak', 'perlu', 'lebai', 'gitu', 'sadar', 'kemampuan', 'gak', 'siih', 'ngancam', 'mo', 'nangkap', 'hackerpleas', 'come', 'on', 'wake', 'up', 'kid', 'u', 'just', 'dreamt'];Positif
+1;['terpantau', 'masih', 'aman', 'namanya', 'nunggu', 'bentar', 'lagi', 'aja', 'wkwkwk'];Positif
+1;['masih', 'percaya', 'aja', 'sama', 'yg', 'beginian'];Positif
+1;['nah', 'yuk', 'bisa', 'yuk'];Positif
+1;['heran', 'masih', 'ada', 'aja', 'yang', 'percaya', 'sama', 'parpol'];Positif
+1;['lapor', 'polisi', 'x', 'lapor', 'bjorkan', 'v'];Positif
+1;['pekerjaan', 'karyawan', 'swasta', 'realita', 'buzzer'];Positif
+1;['hello', 'bro', 'bjorka', 'coba', 'bobol', 'tabungan', 'bank', 'koruptor', 'indonesia', 'di', 'singapura', 'suwiss', 'atau', 'daerah', 'lainnya', 'kirim', 'ke', 'bca', 'buat', 'bantu', 'rakyat', 'miskin', 'indonesia', 'hayo', 'jeniu', 'hacker'];Positif
+1;['ditangkap', 'di', 'madiun', 'siapa', 'identita', 'hacker', 'bjorka', 'sebenarnya', 'baca', 'selengkapnya', 'di', 'sini'];Positif
+1;['pemuda', 'diduga', 'hacker', 'bjorka', 'berhasil', 'diamankan', 'timsu', 'polri', 'polisi', 'belum', 'pasti', 'masih', 'didalami'];Positif
+1;['diselidiki', 'pasti', 'ketemu', 'tuh', 'biang', 'keroknya', 'viral'];Positif
+1;['polri', 'dan', 'bin', 'sudah', 'endu', 'keberadaan', 'hacker', 'bjorka', 'komisi', 'i', 'dpr', 'langsung', 'bikin', 'panja'];Positif
+1;['bapack', 'andai', 'saja', 'waktu', 'itu', 'wa', 'twitter', 'dkk', 'jadi', 'diblokir', 'pastinya', 'hari', 'ini', 'gabak', 'ketemu', 'sama', 'babang', 'yang', 'menggegerkan', 'negeri', 'seribu', 'dongeng', 'ini', 'andai', 'oh', 'andai'];Positif
+1;['bjorka', 'klarifikasi', 'usai', 'buat', 'pemerintah', 'indonesia', 'ketarketir', 'dan', 'netizen', 'heboh', 'kirim', 'salam', 'ke', 'jokowi'];Positif
+1;['bang', 'lagi', 'boke', 'nih', 'minta', 'uang', 'belum', 'jajan', 'dri', 'kemaren', 'kirim', 'di', 'lewat', 'gopay', 'atau', 'ovo', 'aja', 'bang', 'kontak', 'aku', 'di', 'databes', 'abang', 'ya', 'xl', 'bang'];Positif
+1;['segelintir', 'it', 'di', 'indonesia', 'ketarketir', 'lihat', 'aksi', 'bjorka', 'gunakan', 'artifici', 'intellig'];Positif
+1;['hacker', 'bjorka', 'mulai', 'berani', 'mendesak', 'presiden', 'jokowi', 'melalui', 'sebuah', 'video'];Positif
+1;['nama', 'angeliqu', 'sine', 'nik', 'tanggal', 'lahir', 'februari', 'alamat', 'jl', 'rana', 'blk', 'no', 'nama', 'ibu', 'ami', 'resti', 'permata', 'nik', 'tanggal', 'lahir', 'septemb'];Positif
+1;['kepala', 'sekretariat', 'presiden', 'buka', 'suara', 'usai', 'viral', 'klaim', 'bjorka', 'telah', 'mereta', 'dokumen', 'pent', 'presiden'];Positif
+1;['hacker', 'bjorka', 'kembali', 'membuat', 'geger', 'dengan', 'unggahannya', 'di', 'kanal', 'telegram', 'bjorka', 'tampak', 'mengunggah', 'data', 'pribadi', 'milik', 'menteri', 'komunikasi', 'dan', 'informatika', 'johnni', 'g', 'plate', 'waduh', 'gimana', 'tanggapan', 'sobat', 'vdvc'];Positif
+1;['ribuan', 'dokumen', 'milik', 'presiden', 'jokowi', 'dibobol', 'hacker', 'bjorka'];Positif
+1;['hacker', 'bjorka', 'mereta', 'ribuan', 'dokumen', 'milik', 'presiden', 'jokowi'];Positif
+1;['lanjutkan', 'misterbikin', 'morat', 'marit', 'nih', 'rezim'];Positif
+1;['hahahahahahaha', 'mulai', 'manipulasi', 'kasusnih', 'kykni', 'mau', 'pengalihan', 'isu', 'sambo', 'sama', 'bbm'];Positif
+1;['pemuda', 'asal', 'madiun', 'unggah', 'hasil', 'retasan', 'bjorka', 'ke', 'akun', 'telegram', 'kini', 'dijerat', 'pasal', 'uu', 'ite'];Positif
+1;['ma', 'biyorka', 'bukanya', 'org', 'madiun', 'ya'];Positif
+1;['pertamina', 'dalam', 'bidikan'];Positif
+1;['wokeh', 'ditunggu', 'ajalah'];Positif
+1;['mantapp', 'dan', 'top', 'markotopbongkar', 'teruss'];Positif
+1;['kmn', 'ya', 'x', 'aja', 'tau'];Positif
+1;['ditunggu', 'ma', 'bjorka'];Positif
+1;['lanjutkan', 'brooo'];Positif
+1;['apakah', 'akun', 'ini', 'real', 'lord', 'bjorka'];Positif
+1;['mantap', 'teru', 'kan', 'kawan'];Positif
+1;['ada', 'koni', 'dalam', 'bjorkan'];Positif
+1;['belum', 'ada', 'efek', 'muncul', 'nya', 'untuk', 'rakyat', 'indonesiakhusu', 'nya', 'kami', 'yg', 'ekonomi', 'rendahkok', 'sibuk', 'banget', 'ya', 'ngurusin', 'hacker', 'yg', 'gak', 'jela', 'tujuan', 'nyakami', 'butuh', 'harga', 'harga', 'sembakobbm', 'plndan', 'yg', 'laen', 'pada', 'turun', 'pak', 'karena', 'itu', 'lah', 'yg', 'kami', 'butuh', 'kan'];Positif
+1;['sambil', 'mantau', 'bjorka', 'ikutan', 'jadi', 'creator', 'capcut', 'enaknya', 'ngedit', 'templat', 'di', 'gaji', 'sambil', 'rebahan', 'aja'];Positif
+1;['sesuai', 'dugaan', 'beberapa', 'orang', 'sebelumnya', 'ternyata', 'benar', 'terbukti', 'bahwa', 'si', 'tak', 'lebih', 'dari', 'seorang', 'hacker', 'lokal', 'yang', 'menyarumenyamar', 'menjadi', 'hacker', 'internasion'];Positif
+1;['coba', 'dong', 'punya', 'istri', 'ga'];Positif
+1;['semoga', 'mimpi', 'indah'];Positif
+1;['kirim', 'bang', 'lewat', 'tele'];Positif
+1;['marvel', 'menangi', 'melihat', 'ini'];Positif
+1;['diduga', 'bjorka', 'mah', 'sudah', 'boleh', 'pulang', 'cek', 'selengkapnya'];Positif
+1;['selengkapnya', 'klik', 'link', 'kumparan', 'berikut'];Positif
+1;['langganan', 'coli', 'bigonya'];Positif
+1;['updat', 'terkini', 'pesan', 'hacker', 'bjorka', 'masih', 'aktif', 'di', 'breach', 'forum', 'netizen', 'yakin', 'ini', 'pengalihan', 'isu'];Positif
+1;['luar', 'biasa', 'ya', 'negri', 'ini', 'sekarang'];Positif
+1;['terbaru', 'pemuda', 'di', 'madiun', 'akhirnya', 'dipulangkan', 'bjorka', 'ejek', 'jokowi', 'yang', 'tetap', 'buru', 'dirinya', 'semoga', 'beruntung'];Positif
+1;['kok', 'gw', 'ngerasa', 'ini', 'di', 'duga', 'di', 'sete', 'di', 'ada', 'adain', 'khasu', 'nya', 'karena', 'ga', 'ketemu', 'si', 'pedagang', 'es', 'nge', 'upload', 'di', 'channel', 'kok', 'gw', 'ga', 'percaya', 'pedagang', 'es', 'chattan', 'gtu', 'sm', 'hacker', 'kaya', 'aneh', 'aja'];Positif
+1;['yakin', 'dehpolisi', 'indonesia', 'merupakan', 'polisi', 'terjeniu', 'di', 'dunia'];Positif
+1;['hebat', 'banget', 'emang', 'analisisnya', 'gokil', 'ini', 'mah', 'kuliah', 'kajian', 'wacana', 'a', 'saluttt'];Positif
+1;['hatihati', 'saat', 'berkendara', 'ya', 'adik', 'adik'];Positif
+1;['viral', 'bjorka', 'mengaku', 'punya', 'teman', 'orang', 'istana', 'negara', 'beri', 'spoiler', 'tentang', 'nasib', 'johnni', 'g', 'plate', 'menkominfo'];Positif
+1;['pikirkan', 'dulu', 'ya'];Positif
+1;['mantap'];Positif
+1;['kpu', 'dashboard', 'mobil'];Positif
+1;['salfok', 'sama', 'giginya'];Positif
+1;['bisa', 'yakin', 'kalo', 'dah', 'belajar', 'mah'];Positif
+1;['ng', 'nt', 'p', 'cew', 'm', 'nd', 'ab', 's', 'ng', 'gym'];Positif
+1;['keliatan', 'banget', 'ya', 'paniknya', 'pejabat', 'negeri', 'ini', 'membabi', 'buta', 'banget', 'asal', 'tangkep', 'asal', 'tuduh', 'bisa', 'di', 'adili', 'balik', 'yakan', 'kalo', 'ga', 'terbukti'];Positif
+1;['postingan', 'terbaru', 'bjorka'];Positif
+1;['sere', 'terjadi', 'di', 'jakarta', 'apalagi', 'sere', 'banjir'];Positif
+1;['kaget', 'banget', 'loh', 'kirain', 'pokemon', 'ternyata', 'ini', 'gae'];Positif
+1;['nivea', 'mencerakan', 'kulit', 'dapatkan', 'di'];Positif
+1;['cek', 'motor', 'listrik', 'seli', 'tipe', 'new', 'robin', 'dengan', 'harga', 'rp', 'dapatkan', 'di', 'shope', 'sekarang'];Positif
+1;['walah', 'ternyata', 'pelanggannya', 'cik', 'mei', 'wkwkwk'];Positif
+1;['presiden', 'aja', 'sudah', 'tidak', 'dihargai', 'apalagi', 'ini', 'apakah', 'ini', 'benar'];Positif
+1;['silahkan', 'dipilih', 'untuk', 'baju', 'dan', 'hoodi', 'dari', 'brand', 'hous', 'of', 'smith'];Positif
+1;['javaplay', 'situ', 'game', 'onlin', 'terlengkap', 'dan', 'terpercaya'];Positif
+1;['bisa', 'bedain', 'tulisan', 'bjorkan', 'sama', 'bjorkasim', 'ga', 'si', 'ni', 'yang', 'nangkep', 'wkwkwk'];Positif
+1;['uhuy', 'updat', 'terbaru', 'dari', 'bjorka', 'semakin', 'beradrenalin'];Positif
+1;['alia', 'bjorka', 'sakitu', 'weh', 'ti', 'pusat'];Positif
+1;['mulutnya', 'gak', 'pernah', 'nyium', 'bangku', 'sekolah', 'makanya', 'mulutnya', 'bar', 'bar'];Positif
+1;['kirim', 'dong', 'link', 'telegramnya'];Positif
+1;['lu', 'tuh', 'ya', 'cr', 'follow', 'youtub', 'pakai', 'twitter', 'bjorka', 'mana', 'for', 'android', 'lg', 'hati', 'bro', 'efeknya'];Positif
+1;['akun', 'baru', 'bjorka', 'udah', 'ketemu', 'nih'];Positif
+1;['wkwkwk'];Positif
+1;['langsung', 'mingkem', 'jika', 'mau', 'bulli', 'kembarannya', 'ini', 'pasti', 'menggigil'];Positif
+1;['siswi', 'aliyah', 'di', 'trenggalek', 'sabet', 'juara', 'ksm', 'tingkat', 'jatim', 'ini', 'kuncinya'];Positif
+1;['cut', 'mei', 'teru', 'cust', 'ma', 'denni', 'ah', 'ah', 'ah', 'ah', 'enak', 'ya', 'semalam', 'bang', 'denni'];Positif
+1;['akhirnya', 'samp', 'juga', 'difas', 'male', 'buat', 'berekspetasi'];Positif
+1;['varsiti', 'basebal', 'by', 'zett', 'basebal', 'gear', 'size', 'xl', 'ld', 'p', 'bahan', 'parasut', 'tebal', 'inner', 'ketupat', 'logo', 'bordir', 'lengan', 'besar', 'like', 'new', 'harga', 'k', 'sajaaa', 'freeong', 'in', 'shope'];Positif
+1;['gldok', 'burung', 'parrot', 'ukuran', 'larg', 'kakatua', 'triton', 'mollucan', 'kakatua', 'raja', 'macaw', 'dll', 'bahan', 'kayu', 'jati', 'wa', 'lokasi', 'solo', 'jawa', 'tengah', 'link', 'shope'];Positif
+1;['yg', 'asli', 'ada', 'badaknya'];Positif
+1;['ngapain', 'sih', 'sibuk', 'nyiduk', 'kasu', 'sambo', 'lado', 'juga', 'gk', 'kelar'];Positif
+1;['salam', 'booyah', 'buat', 'bjorka'];Positif
+1;['simak', 'beberapa', 'aksi', 'hacker', 'yang', 'membuat', 'pemerintah', 'ketarketir'];Positif
+1;['fake', 'yg', 'asli', 'selalu', 'cantumin', 'link', 'telegramnya'];Positif
+1;['keep', 'it', 'up', 'ma', 'bro', 'semangat', 'gan', 'bate', 'wkwkwk'];Positif
+1;['search', 'aja', 'di', 'tele', 'bjorkan'];Positif
+1;['mahfud', 'md', 'sebut', 'identita', 'bjorka', 'sudah', 'mulai', 'teridentifikasi', 'siapa', 'sosok', 'hacker', 'itu', 'sebenarnya'];Positif
+1;['terjemahan'];Positif
+1;['ketika', 'pemerintah', 'bikin', 'timsu', 'utk', 'memburu', 'bjorka', 'manag', 'om', 'dedi', 'corbuzi', 'uda', 'dapet', 'kontaknyabgst'];Positif
+1;['tunjuk', 'theresa', 'aja', 'belum', 'terkontaminasi'];Positif
+1;['real', 'engga'];Positif
+1;['cikarang', 'aja', 'ma', 'biar', 'satsetsatset'];Positif
+1;['iya', 'juga', 'ya'];Positif
+1;['masalah', 'nilai', 'tukar', 'dan', 'ambruknya', 'keuangan', 'bumn', 'energi', 'jokowi', 'racist', 'cebong', 'dudung', 'kepala', 'desa', 'madiun', 'farhan', 'erika', 'keisya', 'nanci'];Positif
+1;['video', 'hacker', 'bjorka', 'ditangkap', 'dirumahnya', 'di', 'madiun', 'oleh', 'tim', 'cyber', 'polri', 'selengkapnya', 'madiun', 'eko', 'kuntadhi', 'keisya', 'dudung', 'farhan', 'islam', 'muhammad', 'agung', 'hidayatullah'];Positif
+1;['siapa', 'jim', 'geovedi', 'dituduh', 'rekan', 'kerja', 'bjorka', 'trend', 'di', 'twitter', 'hari', 'ini'];Positif
+1;['lu', 'boleh', 'ga', 'percaya', 'mubahalah', 'tapi', 'kami', 'yakin', 'suatu', 'hari', 'nanti', 'dia', 'akan', 'mendatanganimu', 'sudah', 'lihat', 'yang', 'terjadi', 'dengan', 'eko', 'kuntadhi', 'itu', 'mubahalah', 'bereaksi'];Positif
+1;['kalian', 'percaya', 'bjorka', 'orang', 'madiun'];Positif
+1;['tertawa'];Positif
+1;['kirim', 'link', 'telenya', 'bang'];Positif
+1;['kalian', 'sibuk', 'dengan', 'aku', 'sibuk', 'menjadi', 'anak', 'bangsa', 'yang', 'belajar', 'nft', 'lalu', 'di', 'jual', 'di', 'opensea', 'walaupun', 'tidak', 'laku', 'give', 'half', 'of', 'your', 'support', 'for', 'everi', 'work', 'of', 'mine', 'that', 'struggl', 'in', 'the', 'field', 'of', 'nft'];Positif
+1;['lowongan', 'kerja', 'rekrutmen', 'ekstern', 'tingkat', 'slta', 'd', 'd', 's', 'pt', 'kereta', 'api', 'indonesia', 'persero', 'tahun', 'tag'];Positif
+1;['sudah', 'terdeteksi', 'mantap'];Positif
+1;['dress', 'cocok', 'buat', 'kondangan', 'nihh', 'masalah', 'harga', 'aman', 'di', 'kantong', 'kokk', 'beli', 'nya', 'disinii'];Positif
+1;['gtu', 'ya'];Positif
+1;['kok', 'curhat', 'ttg', 'keadaan', 'lu', 'miri', 'bgt', 'ya', 'njing'];Positif
+1;['ngantongin', 'rb', 'triliun', 'aja', 'bisa', 'ilangapalagi', 'ngantongin'];Positif
+1;['mulai', 'kelihatan', 'hilalnya'];Positif
+1;['yang', 'sabar', 'ya', 'dik', 'kadang', 'emang', 'gitu', 'tong', 'kosong', 'nyar', 'bunyinya'];Positif
+1;['video', 'bjorka', 'yang', 'berdurasi', 'detik', 'ini', 'menuai', 'banyak', 'tanggapan', 'dari', 'warganet', 'bjorka', 'meminta', 'keadilan', 'kepada', 'presiden', 'jokowi'];Positif
+1;['hacker', 'yg', 'dilihat', 'mia', 'khalifah', 'makin', 'melambung', 'aja', 'bjorkan', 'itu'];Positif
+1;['karna', 'fanik', 'ya', 'dok', 'jadi', 'sekarang', 'pejabat', 'pada', 'ga', 'enak', 'apaapa', 'ini', 'dok'];Positif
+1;['pertanyaannya', 'si', 'desi', 'daftar', 'pake', 'nik', 'dan', 'kk', 'siapa', 'ya', 'kan', 'satu', 'ktp', 'dibata', 'nomor'];Positif
+1;['baru', 'aja', 'mau', 'liat', 'eh', 'akun', 'sudah', 'di', 'tangguhkan'];Positif
+1;['gw', 'yakin', 'bjorka', 'ini', 'bkan', 'orang', 'ase', 'dari', 'gaya', 'b', 'inggri', 'nya', 'jga', 'ke', 'indoaan', 'banget'];Positif
+1;['wkwkwkw', 'opposit', 'aja', 'ga', 'ketangkep', 'apalagi', 'ini', 'tier', 'gold', 'mikir'];Positif
+1;['spoiler', 'kutipannya', 'menyebutkan', 'tentang', 'presiden', 'ri', 'ke', 'soeharto', 'tidak', 'jela', 'kemudian', 'naskah', 'asli', 'supersemar', 'karena', 'beberapa', 'tahun', 'kemudian', 'setelah', 'perpindahan', 'kekuasaan', 'naskah', 'asli', 'surat', 'ini', 'dinyatakan', 'hilang'];Positif
+1;['loo', 'yg', 'punya', 'negara', 'ini', 'kan', 'gua', 'suka', 'dong', 'begitulah', 'kira', 'ungkapan', 'dalam', 'hatinya'];Positif
+1;['cepat', 'banget', 'ilangnya'];Positif
+1;['perasaan', 'case', 'nya', 'ini', 'org', 'problematik', 'sebelum', 'adanya', 'bjorka', 'rame', 'woro', 'woro', 'manasin', 'publik', 'deh', 'tp', 'lo', 'liat', 'dah', 'spek', 'nya', 'aja', 'kaga', 'banget', 'buat', 'jd', 'menteri', 'masih', 'banyak', 'ko', 'org', 'kompeten', 'yg', 'harusnya', 'ada', 'diposisi', 'itu', 'bukan', 'lulusan', 'sarjana', 'ekonomi', 'yg', 'baca', 'kodingan', 'aja', 'kaga', 'paham'];Positif
+1;['panjang', 'nya', 'jenggot', 'tdk', 'menjamin', 'panjang', 'nya', 'akal'];Positif
+1;['siap', 'sir', 'kami', 'tunggu', 'kembali', 'mu'];Positif
+1;['kuylah', 'serang', 'deh', 'pirtimini', 'kasu', 'pilisi', 'ga', 'kelar', 'drama', 'mulu', 'berkelitkelit', 'belibet', 'pleas', 'serang', 'aja', 'mreka', 'biar', 'cepet', 'kelar', 'beban', 'negara', 'aja'];Positif
+1;['sempat', 'hilang', 'kini', 'akun', 'twitter', 'dan', 'telegram', 'bjorka', 'muncul', 'kembali', 'dan', 'dox', 'sejumlah', 'nama', 'besar'];Positif
+1;['wkwkwk', 'ga', 'pooll'];Positif
+1;['pala', 'bapak', 'kau', 'backakun', 'fake', 'buatan', 'buzzerp'];Positif
+1;['ku', 'yakin', 'kak', 'dia', 'orang', 'terbaik'];Positif
+1;['wkwkwk', 'rame', 'ini'];Positif
+1;['madu', 'hutan', 'murni', 'yang', 'terjaga', 'kemurniannya'];Positif
+1;['oh', 'jadi', 'kalau', 'punya', 'aks', 'boleh', 'ya', 'dishar', 'kirain', 'yg', 'bakalan', 'ngasib', 'tau', 'nya', 'kemenk', 'atau', 'dink'];Positif
+1;['semenjak', 'akun', 'bjorka', 'tumbang', 'mendadak', 'banyak', 'bjorka', 'kw', 'mulai', 'kw', 'samp', 'kw', 'ini', 'persi', 'sama', 'dgn', 'akun', 'kang', 'cendol', 'yg', 'tumbang', 'dan', 'digantikan', 'akun', 'yg', 'mirip', 'tapi', 'dicurigai', 'sebagai', 'cepu'];Positif
+1;['siapakah', 'yg', 'sebenarnya'];Positif
+1;['jokowi', 'minta', 'pelayanan', 'keimigrasian', 'haru', 'dipermudah', 'salernitana', 'siang', 'senin', 'ariel', 'munir', 'bjorka'];Positif
+1;['pada', 'pertemuan', 'hari', 'ini', 'meminta', 'relawan', 'untuk', 'mengaw', 'program', 'dan', 'warisan', 'pemerintahannya', 'agar', 'dapat', 'dilanjutkan', 'oleh', 'penggantinya', 'di', 'pemilu'];Positif
+1;['tip', 'untuk', 'para', 'pencari', 'loker', 'semangat', 'mencari', 'kerja', 'jangan', 'lupa', 'download', 'kerjapagi', 'untuk', 'memudahkan', 'kalian', 'dapetin', 'kerjaan', 'dgn', 'cepat'];Positif
+1;['agak', 'ngebug', 'dikit', 'ya', 'guy', 'ya'];Positif
+1;['alhamdulillah', 'g', 'vaksin', 'ayoo', 'rakyat', 'bangun', 'doong', 'kita', 'cm', 'dibohongin'];Positif
+1;['how', 'about', 'opm', 'organisasi', 'papua', 'merdeka'];Positif
+1;['berhubung', 'harga', 'bbm', 'sedang', 'naik', 'gua', 'mau', 'kasih', 'beberapa', 'tip', 'untuk', 'menghemat', 'bbm', 'semoga', 'membantu'];Positif
+1;['jadi', 'sasaran', 'hacker', 'begini', 'respon', 'dan', 'penjelasan', 'tni', 'ad'];Positif
+1;['pendaftaran', 'kartu', 'prakerja', 'gelombang', 'baru', 'saja', 'dibuka', 'buruan', 'daftar', 'dan', 'login', 'di'];Positif
+1;['bisa', 'aja', 'ent'];Positif
+1;['hayo', 'telanjangin', 'ajah', 'bro', 'gaskeun'];Positif
+1;['bener', 'harusnya', 'belajar', 'dari', 'pengalaman'];Positif
+1;['dibayar', 'brp', 'bang', 'jd', 'buzzer'];Positif
+1;['bjorkan', 'ditak', 'down', 'sama', 'tweeter', 'tapi', 'banyak', 'lahir', 'cebong', 'cebong', 'bjor', 'utk', 'mengekor', 'ketenarannya'];Positif
+1;['baru', 'muncul', 'udah', 'op', 'banget'];Positif
+1;['baru', 'buat', 'akun', 'bang', 'hehe'];Positif
+1;['di', 'baca', 'aja', 'twit', 'nya', 'ngab'];Positif
+1;['masak', 'sih', 'cowok', 'tito', 'berkucupan', 'dg', 'cewek', 'fadil', 'yang', 'benar', 'aja', 'kamu'];Positif
+1;['mana', 'sanggup', 'si'];Positif
+1;['join', 'tele', 'nya', 'om', 'biar', 'ga', 'salah', 'atau', 'check', 'link'];Positif
+1;['iya', 'oke'];Positif
+1;['kok', 'aku', 'langsung', 'kagum', 'sm'];Positif
+1;['udah', 'di', 'leak', 'tuh', 'ani', 'di', 'telegram', 'sama', 'bpk', 'tito', 'tuh'];Positif
+1;['giliran', 'jokowi', 'beserta', 'jajaran', 'pake', 'ancam', 'ancaman', 'giliran', 'ke', 'aba', 'lu', 'njilat', 'malih', 'lu', 'dongok', 'amat', 'malih'];Positif
+1;['cara', 'cek', 'statu', 'penerima', 'bsu', 'kemnak', 'bagi', 'buruh', 'melalui', 'bpj', 'ketenagakerjaan', 'klik', 'linknya', 'di', 'sini'];Positif
+1;['alhamdulillah', 'tag'];Positif
+1;['boleh', 'minta', 'ga', 'nder'];Positif
+1;['garda', 'terdepan', 'nake', 'malah', 'diminta', 'sampai', 'booster', 'ke'];Positif
+1;['ferdi', 'sambo', 'kenaikan', 'harga', 'bbm', 'hingga', 'hacker', 'bjorka', 'semuanya', 'buat', 'publik', 'puse'];Positif
+1;['mungkin', 'capek', 'ini', 'ada', 'es', 'teh', 'diminum', 'dulu', 'yuk', 'biar', 'seger'];Positif
+1;['langsung', 'colok', 'kabel', 'ke', 'jantung', 'bisa', 'sedot', 'giga', 'itungan', 'detik'];Positif
+1;['user', 'hotbit', 'senasib', 'pembahasan', 'disini'];Positif
+1;['indikasinya', 'surveynya', 'asal', 'tayang'];Positif
+1;['di', 'jual', 'tuhsurat', 'presiden', 'aj', 'di', 'jual', 'yakali', 'data', 'kita', 'g'];Positif
+1;['memang', 'pintar', 'membuat', 'berbagai', 'macam', 'skenario', 'yg', 'menyudutkan', 'pihak', 'laininilah', 'kelebihannya'];Positif
+1;['halo', 'guy', 'semoga', 'kalian', 'sehat', 'selalu', 'yang', 'lgi', 'butuh', 'tinta', 'printer', 'ori', 'untuk', 'kebutuhan', 'kantor', 'dllnya', 'bsa', 'diorder', 'ditoko', 'kmi', 'ya', 'jenisepsoncanonhpbroth', 'ngepep'];Positif
+1;['berdasarkan', 'kodenya', 'vak', 'cuma', 'vitamin', 'ya', 'dok'];Positif
+1;['ratusan', 'atlet', 'dari', 'berbagai', 'daerah', 'ikuti', 'temanggung', 'bmx', 'bupati', 'cup', 'selengkapnya'];Positif
+1;['di', 'beberapa', 'negara', 'eropa', 'bahkan', 'tetangga', 'singapor', 'sekila', 'gua', 'baca', 'di', 'web', 'resmi', 'pemerintahan', 'dan', 'layanan', 'publik', 'mereka', 'udah', 'pake', 'identita', 'digit', 'juga', 'cmiiw'];Positif
+1;['tanya', 'pak', 'rt', 'aja'];Positif
+1;['jhoni', 'g', 'plate', 'mundur', 'digantikan', 'otto', 'toto', 'sugiri', 'pemilik', 'pt', 'dcii', 'ahli', 'it', 'nomor'];Positif
+1;['kaya', 'akun', 'bjorkan', 'gembokan', 'aja', 'smpe', 'dibikin', 'thread'];Positif
+1;['bingung', 'mau', 'ngapain', 'dukung', 'apa', 'dukung', 'petinggi', 'negara'];Positif
+1;['good', 'job', 'bjorka', 'seluruh', 'netizen', 'indonesia', 'mendukung', 'mu', 'brother'];Positif
+1;['sorri', 'to', 'say', 'pak', 'johni', 'ini', 'pandir', 'kah', 'kali', 'kebobolan', 'no', 'simcard', 'sama', 'bjorka', 'kok', 'bisa', 'kebobolan', 'ke', 'kalinya', 'pake', 'kk', 'yang', 'sama', 'pake', 'kk', 'siapa', 'kek', 'atau', 'gimana', 'kek', 'dia', 'ganti', 'pake', 'simcard', 'amerika', 'difikir', 'lebih', 'secur', 'kali', 'ya', 'eh', 'bobol', 'juga'];Positif
+1;['berani', 'mahasiswa', 'aksi'];Positif
+1;['akun', 'asli', 'masih', 'ditangguhkan'];Positif
+1;['akun', 'palsu', 'yg', 'asli', 'akunnya', 'masih', 'ditangguhkan'];Positif
+1;['lihat', 'video', 'ku'];Positif
+1;['situasi', 'sekarang', 'membuat', 'inget', 'v', 'for', 'vendetta'];Positif
+1;['siapa', 'bro', 'dalang', 'di', 'dalam', 'pembunuhan', 'munir'];Positif
+1;['ya', 'bgu', 'lah', 'cibay'];Positif
+1;['ini', 'yg', 'asli'];Positif
+1;['follback', 'bisa', 'kali'];Positif
+1;['misal', 'nih', 'ya', 'bang', 'rumah', 'ent', 'di', 'jaga', 'satpam', 'tp', 'satpam', 'ent', 'kerja', 'nya', 'gak', 'bener', 'tidur', 'teru', 'ngabisin', 'duit', 'rokok', 'doang', 'teru', 'karena', 'kerja', 'satpamnya', 'gak', 'bener', 'rumah', 'ent', 'kemalingan', 'kira', 'kira', 'ent', 'mau', 'nyalahin', 'malingnya', 'apa', 'satpamnya'];Positif
+1;['tanggapan', 'denni', 'siregar', 'usai', 'disentil', 'hacker', 'bjorka', 'singgung', 'habib', 'rizieq', 'dan', 'ani', 'baswedan'];Positif
+1;['habi', 'mabuk', 'kenc', 'onta', 'ni', 'pasti'];Positif
+1;['mgkn', 'ad', 'orang', 'dalam', 'haha'];Positif
+1;['ya', 'yg', 'pentinh', 'happi', 'kan'];Positif
+1;['gak', 'cuma', 'menterinya', 'aja', 'tapi', 'juga', 'puan', 'dll', 'join', 'grup', 'telenya', 'aja', 'buat', 'updat', 'info', 'lainnya'];Positif
+1;['agak', 'aneh', 'aja', 'simotif', 'kemunculan', 'bjorka', 'di', 'sat', 'kasu', 'fs', 'sama', 'isu', 'politik', 'jgn', 'byorka', 'ini', 'org', 'bayaran', 'bagian', 'dalam', 'kepemerintahan', 'krena', 'ada', 'oknum', 'mengancam', 'data', 'pemerintah', 'akan', 'di', 'bocorkan', 'jika', 'ditahan', 'akun', 'sndiri', 'baru', 'join', 'august', 'kmaren'];Positif
+1;['gw', 'jg', 'seneng', 'sih', 'pak', 'btw', 'dibayar', 'berapa', 'lu', 'amp', 'jd', 'buzzer', 'pemerintah', 'gini'];Positif
+1;['nnjjjirr', 'ne', 'manusia', 'ideot'];Positif
+1;['lebih', 'cocok', 'mrbison', 'dari', 'street', 'fighter', 'sih', 'kan', 'sama', 'jendral'];Positif
+1;['udh', 'udh', 'bjorkan', 'udh', 'buat', 'akun', 'baru'];Positif
+1;['beberapa', 'hari', 'selepa', 'membocorkan', 'berbagai', 'data', 'dan', 'dokumen', 'milik', 'pemerintah', 'indonesia', 'akun', 'twitter', 'bjorka', 'menjadi', 'perbincangan', 'publik', 'bjorka', 'mempublikasikan', 'suratsurat', 'yang', 'dikirim', 'bin', 'kepada', 'presiden', 'jokowi'];Positif
+1;['temen', 'gue', 'di', 'polad', 'kerja', 'nya', 'banyak', 'di', 'perusahan', 'cuy'];Positif
+1;['apalagi', 'banyak', 'spekulasi', 'dsini', 'ketika', 'ada', 'kasu', 'besar', 'pasti', 'kaya', 'dtutupi', 'dg', 'kasu', 'lainnya', 'siapa', 'yg', 'gk', 'curiga', 'gitu', 'bro', 'pa', 'banget'];Positif
+1;['bjorka', 'udah', 'kek', 'bigmous', 'aja'];Positif
+1;['emang', 'gbl', 'k', 'si', 'lu', 'bjorka', 'yg', 'real', 'nism', 'sedangkan', 'itu', 'nesm', 'pikir', 'dan', 'foku', 'dulu', 'buat', 'twiit', 'biar', 'gk', 'nampak', 'tololnya', 'ini', 'akun', 'aslinya', 'bedain', 'sendiri', 'punya', 'siapa', 'yg', 'lu', 'screenshoot'];Positif
+1;['okeok', 'mksih', 'ata', 'infonya', 'harusnya', 'hal', 'kek', 'gini', 'juga', 'bisa', 'djadikan', 'pmbelajaran', 'bagi', 'orang', 'pmerintahan', 'gk', 'tau', 'ya', 'pemerintahan', 'kita', 'mnyingkapinya', 'gmana', 'kok', 'rasanya', 'masih', 'adem', 'ayem', 'aja'];Positif
+1;['tip', 'tombol', 'cepat', 'menggunakan', 'window', 'untuk', 'mempercepat', 'pekerjaan', 'kamu'];Positif
+1;['danaslot', 'hadir', 'untuk', 'memberikan', 'momen', 'menyenangkan', 'dengan', 'game', 'tergacor', 'kami', 'lihat', 'semuanya', 'di', 'sini', 'dan', 'mainkan', 'hari', 'ini', 'juga', 'dan', 'raih', 'kemenangan', 'anda'];Positif
+1;['cepett', 'taq', 'senin', 'presiden', 'jokowi', 'ngepep'];Positif
+1;['bjorka', 'ini', 'korban', 'dindukcapil', 'mau', 'bikin', 'akta', 'kelahiran', 'nama', 'orangtuanya', 'beda', 'antara', 'surat', 'nikah', 'sama', 'di', 'ktp', 'sama', 'di', 'ijazah'];Positif
+1;['heleh', 'lo', 'mau', 'ganjar', 'yang', 'naik', 'presiden', 'dengan', 'mulu'];Positif
+1;['kan', 'udah', 'dikasih', 'anggaran', 'tryliunan', 'abgku'];Positif
+1;['skecher', 'pop', 'up', 'women', 'sandal', 'rose', 'ysego', 'kasu', 'sambo', 'bjorka'];Positif
+1;['nungguin', 'bjorkan', 'eksi', 'lagi', 'sama', 'kaya', 'nungguin', 'kasu', 'sambo', 'kelar', 'atau', 'nungguin', 'debut', 'di', 'amerika', 'gak', 'sih'];Positif
+1;['hi', 'aku', 'cuma', 'mau', 'nawarin', 'ini', 'bisa', 'dapet', 'uang', 'kak'];Positif
+1;['ditangguhkan', 'tu', 'kenapa', 'ya', 'ngab'];Positif
+1;['rekomendasi', 'kemeja', 'atasan', 'wanita', 'bjorka', 'senin', 'sarapan', 'munir', 'artism', 'exhibit'];Positif
+1;['secara', 'gak', 'langsung', 'lah', 'bikin', 'ani', 'melejit', 'telah', 'kembali', 'welcom', 'back', 'mr'];Positif
+1;['wkwk', 'you', 'reap', 'what', 'you', 'sow', 'eh', 'kepo', 'boleh', 'gmn', 'hasilnya'];Positif
+1;['akun', 'baru', 'resmi', 'kang', 'bjorka'];Positif
+1;['orang', 'wonogiri', 'jualan', 'bakso'];Positif
+1;['wkwkwk', 'monyettt'];Positif
+1;['gw', 'jg', 'gini', 'wkwkwk'];Positif
+1;['yg', 'punya', 'datanya', 'spill', 'dong'];Positif
+1;['mau', 'registrasi', 'kartu', 'masih', 'bisa', 'kan', 'ya', 'mbak'];Positif
+1;['makasih', 'bang'];Positif
+1;['asik', 'nih'];Positif
+1;['spill', 'tele', 'nya', 'kak', 'mau', 'join'];Positif
+1;['wkwkwk', 'anyink'];Positif
+1;['bang', 'ada', 'di', 'mari', 'wkwkwk'];Positif
+1;['baru', 'belajar', 'jadi', 'hacker'];Positif
+1;['sih', 'nunggu', 'updat', 'sek', 'ning', 'telegram'];Positif
+1;['ngapain', 'emang', 'repli', 'punya', 'lu', 'ibarat', 'diskusi', 'sama', 'domba', 'ekwkkw'];Positif
+1;['td', 'ada', 'yg', 'di', 'blok', 'sm', 'bjorkan', 'siap', 'ye'];Positif
+1;['dm', 'aja', 'kak', 'masih', 'readi'];Positif
+1;['opsi', 'partai', 'nya', 'sedikit', 'buat', 'non', 'islam'];Positif
+1;['dia', 'hacker', 'beneran', 'pemerintah', 'takut', 'akhirnya', 'lapor', 'twitter', 'degh'];Positif
+1;['ya', 'abisnya', 'caper', 'bgt', 'heker', 'ko', 'main', 'telegram'];Positif
+1;['sakti', 'di', 'respon', 'denni', 'siregar', 'akun', 'bjorka', 'kanda'];Positif
+1;['aanjirt', 'padah', 'baru', 'banget', 'bikin', 'ga', 'si'];Positif
+1;['bjorka', 'sokin', 'ngopi', 'kita', 'pondok', 'kelapa'];Positif
+1;['asli'];Positif
+1;['coba', 'miskol', 'nomornya', 'yuk'];Positif
+1;['belum', 'ngopi', 'pke', 'kopiko', 'jdi', 'blio', 'blm', 'bisa', 'jawab'];Positif
+1;['ada', 'yang', 'kangen', 'sama', 'makanan', 'jajanan', 'jadul', 'masa', 'sd', 'aku', 'ada', 'rekomendasi', 'toko', 'yang', 'jual', 'jajanan', 'sd', 'lengkapppp', 'bgt', 'cuss', 'kepoin', 'sekalian', 'nostalgia', 'xixixi'];Positif
+1;['amin', 'doa', 'yang', 'sama', 'ya', 'kak'];Positif
+1;['bjorkan', 'di', 'telegram', 'sudah', 'hilang', 'hmm', 'diciduk', 'ayah', 'kali', 'ya'];Positif
+1;['beneran', 'di', 'tangguhkan'];Positif
+1;['hallo', 'yang', 'di', 'daerahnya', 'ada', 'jaringan', 'id', 'ketika', 'menghidupkan', 'wifi', 'bisa', 'nih', 'dipak', 'lumayan', 'internetan', 'free', 'violet', 'tokopedia', 'shope', 'bukalapak', 'itemku'];Positif
+1;['ya', 'juga', 'sih'];Positif
+1;['hp', 'nya', 'banyak', 'amat', 'yak'];Positif
+1;['hacker', 'internasion', 'wkwkwk'];Positif
+1;['legend', 'walau', 'sejenak', 'tapi', 'kehadirannya', 'bisa', 'menghangatkan', 'suasana'];Positif
+1;['ya', 'allah', 'cape', 'jelasin', 'akutuh'];Positif
+1;['hallo'];Positif
+1;['bjorkan', 'suka', 'nonton', 'ini', 'enggak', 'ya'];Positif
+1;['konsisten', 'bohongnyaa', 'ya'];Positif
+1;['mampo', 'wkwkwk'];Positif
+1;['akun', 'langsung', 'di', 'tangguhkan'];Positif
+1;['padah', 'gue', 'tadi', 'baru', 'search', 'masih', 'ada', 'tuh', 'akun', 'eh', 'beberapa', 'jam', 'kemudian', 'udah', 'kesuspend', 'aja', 'untung', 'gue', 'masih', 'punya', 'ss', 'an', 'isi', 'twt', 'si', 'bjorka', 'itu'];Positif
+1;['deket', 'rumah', 'saya', 'di', 'kebagusan'];Positif
+1;['walaaah', 'su', 'acc', 'si', 'bjorkan', 'wkwkwk', 'licik', 'bgt', 'anjir'];Positif
+1;['iya', 'ini', 'ribu', 'dalam', 'hari'];Positif
+1;['hilang', 'langsung', 'akun', 'bjorkan'];Positif
+1;['hidanicup', 'kemana', 'aja'];Positif
+1;['cari', 'aja', 'bjorkan', 'pasti', 'muncul'];Positif
+1;['hahaha', 'kopi', 'jahe', 'ya'];Positif
+1;['aku', 'jawab', 'buat', 'ma', 'nya', 'yg', 'bilang', 'duit', 'rakyat', 'di', 'pake', 'nake', 'buat', 'maksa', 'masi'];Positif
+1;['wkwkwk', 'bagu', 'tuh', 'yg', 'pent', 'darah', 'tdk', 'terkontaminasi', 'fucksin'];Positif
+1;['wkwkwk', 'waktu', 'buat', 'akum', 'twitter', 'pake', 'email', 'siapa', 'dia'];Positif
+1;['kenapa', 'yg', 'vocal', 'n', 'berani', 'selalu', 'dibuat', 'kyk', 'gini', 'oleh', 'twiter', 'ya'];Positif
+1;['jadi', 'ini', 'tindakan', 'mereka'];Positif
+1;['kang', 'ronda', 'temlen', 'sambil', 'bw', 'pentungan'];Positif
+1;['ini', 'rb', 'follow', 'dalam', 'hari'];Positif
+1;['tukang', 'surpey', 'kaya', 'gini', 'mahminta', 'surpey', 'pekerjaan', 'pelacur', 'lont', 'jadi', 'pekerjaan', 'halal', 'juga', 'bisa', 'mereka', 'bikin', 'surpeynya'];Positif
+1;['bjorka', 'mau', 'panjat', 'sosial'];Positif
+1;['bjorka', 'nama', 'akun', 'medso', 'ny', 'pasti', 'bjorkan', 'pke', 's', 'bkn', 'pake', 'z'];Positif
+1;['updat', 'terbaru', 'akun', 'bjorka', 'hilang', 'ckckck'];Positif
+1;['ini', 'cuma', 'ujian', 'buat', 'diri', 'kamu', 'jalani', 'dengan', 'sabar', 'ujian', 'yang', 'sedang', 'kamu', 'hadapi'];Positif
+1;['oh', 'tinggal', 'ganti', 'nama', 'aja', 'menjadi'];Positif
+1;['habi', 'ngetwit', 'pangeran', 'keknya'];Positif
+1;['dari', 'senyumnya', 'sepertinya', 'biasa', 'aja', 'lebih', 'berkesan', 'merayakan', 'ulang', 'tahun', 'di'];Positif
+1;['hooh', 'kenapa', 'ya'];Positif
+1;['udh', 'nyamp', 'an', 'k', 'ya', 'folowernya'];Positif
+1;['ini', 'cuma', 'ujian', 'semoga', 'bisa', 'kamu', 'lalui', 'dengan', 'kesabaran'];Positif
+1;['ngopi'];Positif
+1;['ngapain', 'juga', 'bjorka', 'ngurusin', 'elu', 'emang', 'lu', 'siapa', 'punya', 'power', 'apa', 'di', 'indonesia', 'ini'];Positif
+1;['entahlah', 'kemunculan', 'bjorka', 'ini', 'lebih', 'banyak', 'membawa', 'dampak', 'positif', 'atau', 'negatif', 'semoga', 'kasu', 'pencurian', 'data', 'ini', 'segera', 'terselesaikan'];Positif
+1;['wkwkwk', 'sejalan', 'seirama'];Positif
+1;['beuhh', 'gak', 'ajak'];Positif
+1;['terima', 'kasih', 'ata', 'waktunya', 'jangan', 'lupa', 'bikin', 'akun', 'baru', 'lagi', 'ya', 'kalo', 'nggak', 'sewa', 'jasa', 'unsu', 'bayar', 'k', 'akun', 'lu', 'bisa', 'balik', 'wkwkwk'];Positif
+1;['setelah', 'johnni', 'plate', 'giliran', 'puan', 'maharani', 'ikut', 'bjorka', 'karena', 'berpesta', 'di', 'tengah', 'kenaikan', 'harga', 'bbm'];Positif
+1;['akun', 'sekela', 'kang', 'saja', 'mungkin', 'sudah', 'biasa', 'suspendtentu', 'juga', 'sama', 'dengan', 'tapi', 'prof', 'bilang', 'buat', 'akun', 'semudah', 'membuat', 'eamail'];Positif
+1;['gak', 'lah', 'kami', 'rakyat', 'yg', 'yakin', 'sambo', 'ngehoax', 'juga', 'percaya', 'si', 'bjorka', 'itu', 'juga', 'ngehoax'];Positif
+1;['statement', 'lu', 'gokil', 'broh', 'jadi', 'pen', 'ketawa'];Positif
+1;['hooh', 'ma', 'dee', 'asli', 'nganjuk', 'tonggoku', 'iku', 'omah', 'e', 'cedek', 'pertigaan'];Positif
+1;['ternyata', 'dibabat', 'sama', 'ckckck'];Positif
+1;['gak', 'yakin', 'juga', 'supersemar', 'bakal', 'disimpan', 'onlin'];Positif
+1;['kirim', 'pakek', 'virtex'];Positif
+1;['bjorka', 'pasti', 'balik', 'bani', 'cuma', 'acount', 'aja', 'di', 'tangguhkan', 'tunggu', 'kejutan', 'berikut', 'nya', 'cepat', 'kembali'];Positif
+1;['lanjutkan'];Positif
+1;['bjorka', 'itu', 'sesungguhnya', 'orang', 'asli', 'bekasi'];Positif
+1;['responnya', 'cepet', 'beutga', 'mau', 'malu', 'lebih', 'lama'];Positif
+1;['oalah', 'begituuu', 'thank', 'you', 'kak', 'infonya'];Positif
+1;['akun', 'langsung', 'ditangguhkan'];Positif
+1;['kang', 'konter', 'full', 'senyum', 'dapet', 'nik', 'ama', 'nokk', 'gratisan'];Positif
+1;['ada', 'brpa', 'juta', 'org', 'yg', 'demo', 'ma', 'bro', 'pale', 'cuma', 'atw', 'dr', 'juta', 'rakyat', 'indonesia', 'itupun', 'klo', 'ada', 'tp', 'sy', 'yakin', 'tdk', 'sebanyak', 'itulah', 'jt', 'x', 'jt'];Positif
+1;['perlu', 'di', 'naturalisasi', 'nih', 'gantiin', 'binsar', 'pangaribuan', 'wkwkwkwk'];Positif
+1;['yg', 'lain', 'tinggal', 'nunggu', 'giliran'];Positif
+1;['semudah', 'membuat', 'email', 'baru'];Positif
+1;['ga', 'tertarik', 'baha', 'bjorka', 'moen'];Positif
+1;['kirim', 'virtex', 'ah'];Positif
+1;['pasti', 'nya', 'di', 'suspendgak', 'heran', 'sm', 'negeri', 'konoha'];Positif
+1;['yg', 'di', 'surv', 'pasti', 'yg', 'dapat', 'kartu', 'dan', 'banso'];Positif
+1;['babik', 'emang', 'akun', 'bjorka', 'mereka', 'benamkan', 'final', 'oligarch', 'are', 'start', 'to', 'show', 'their', 'fang', 'damn', 'it'];Positif
+1;['lupa', 'ingatan', 'jga', 'bs'];Positif
+1;['nanggung', 'amat', 'bikin', 'lah'];Positif
+1;['di', 'neraka', 'kelak', 'perut', 'burhan', 'muhtadi', 'menjadi', 'sumber', 'keluarnya', 'api', 'makan', 'uang', 'tiputipu', 'berkedok', 'ilmu'];Positif
+1;['berarti', 'mereka', 'juga', 'engga', 'serumah', 'sudah', 'bang'];Positif
+1;['yah', 'disuspend', 'ga', 'asik', 'nih'];Positif
+1;['desss', 'masih', 'kalah', 'hebat', 'akun', 'sama', 'pemilik', 'twitter'];Positif
+1;['mampu', 'kalian', 'skr', 'ga', 'bs', 'berkutik', 'thank', 'you', 'pliss', 'kuliti', 'mrka', 'smw', 'make', 'peopl', 'suffer'];Positif
+1;['bagai', 'mana', 'ini', 'menurut'];Positif
+1;['tambah', 'lgi', 'buka', 'kasu'];Positif
+1;['goa', 'lu', 'kira', 'dalam', 'goa', 'ada', 'sinyal', 'goa', 'bapak', 'lu', 'kali', 'dapat', 'sinyal'];Positif
+1;['true', 'gosah', 'enggr', 'ab', 'wong', 'orang', 'lokal', 'aja', 'kok', 'kenal', 'densi', 'pulak', 'pale', 'satu', 'sirkelan', 'sama', 'buzzer', 'm', 'mui', 'dki'];Positif
+1;['padah', 'baru', 'banget', 'stalk', 'tadi', 'siang', 'proud', 'of', 'him'];Positif
+1;['kapan', 'mampir', 'ke', 'solo', 'ma', 'bjork'];Positif
+1;['wkwkwk', 'elu', 'yg', 'harusnya', 'keluar', 'dr', 'goa', 'dunia', 'ini', 'lua', 'boy', 'elu', 'aja', 'yg', 'terlalu', 'fanatik', 'di', 'dunia', 'kadrun', 'sama', 'cebong'];Positif
+1;['woh', 'bener', 'dalam', 'hitungan', 'menit'];Positif
+1;['haru', 'biar', 'kamu', 'makin', 'sayang'];Positif
+1;['hahahaha', 'takut', 'banget'];Positif
+1;['lanjutkan', 'bjorka'];Positif
+1;['wkwkwkwkwk', 'hi', 'pleas', 'answer', 'do', 'be', 'silent'];Positif
+1;['pesta', 'ditengah', 'penderitaan', 'rakyat', 'inikah', 'capr', 'idaman'];Positif
+1;['pengalihan', 'sia', 'kacaw', 'lu', 'boiii', 'ok', 'klo', 'tolak', 'ukur', 'satu', 'iye', 'tuh', 'strovian', 'jual', 'full', 'bin', 'sama', 'polri', 'plu', 'kasih', 'sampel', 'beneran', 'kejual', 'karen', 'tag', 'pricenya', 'udh', 'diilangin', 'mungkin', 'tapi', 'biasanya', 'gitu', 'sih', 'di', 'forum', 'soal', 'jualan', 'data'];Positif
+1;['kreatif'];Positif
+1;['gak', 'peka', 'emang'];Positif
+1;['udah', 'bang', 'udah', 'bang', 'ancur', 'negaranya', 'wkwkwk'];Positif
+1;['klo', 'lu', 'mau', 'tau', 'hrsfpi', 'bisa', 'dateng', 'langsung', 'ke', 'petamburan', 'jakarta', 'megamendung', 'bogor'];Positif
+1;['bjorka', 'bisa', 'bocorin', 'resep', 'krabbi', 'patti', 'ga', 'pliss', 'aku', 'pgn', 'bgt'];Positif
+1;['kayak', 'tuhan', 'langsung', 'bantu', 'ent', 'aja', 'kalo', 'ent', 'susah'];Positif
+1;['bang', 'defac', 'web', 'polri', 'bisa', 'ga', 'ga', 'bisa', 'ya'];Positif
+1;['asik', 'banget', 'ngikutin', 'bjorkan'];Positif
+1;['ga', 'sekalian', 'kirim', 'cod', 'dildo'];Positif
+1;['langsung', 'hack', 'aja', 'bang', 'dpr', 'nya'];Positif
+1;['ini', 'org', 'bountynya', 'berapa', 'milyar', 'berri', 'ya'];Positif
+1;['ini', 'yg', 'ditunggu'];Positif
+1;['sini', 'kak', 'beli', 'diaku', 'youtub', 'premium', 'bulan', 'aktif', 'sampai', 'januari', 'kak', 'order', 'lewat', 'dmwa', 'ya', 'kak', 'cuma', 'k', 'payment', 'via', 'gopaydanaspayovo', 'fast', 'respon', 'klik', 'link', 'whatsapp'];Positif
+1;['hahahahahhahahahahhahahahhahah', 'inimi', 'kiblatnya', 'bbrapa', 'org', 'yg', 'menganggap', 'dirinya', 'ismm'];Positif
+1;['maen', 'nya', 'hebat'];Positif
+1;['bang', 'hengker', 'bjorka', 'bisa', 'benahin', 'lampu', 'gak', 'kan', 'hengker'];Positif
+1;['tanggapan', 'presiden', 'setelah', 'mem', 'bocor', 'kan', 'dokumen', 'rahasia', 'negara'];Positif
+1;['yang', 'mau', 'mutualan', 'sama', 'admin', 'repli', 'aja', 'cew', 'onli'];Positif
+1;['kapasita', 'otak', 'penguasa', 'sudah', 'terlihat', 'uganda', 'emang', 'kadang'];Positif
+1;['lu', 'beneran', 'tahu', 'logo', 'nu', 'gak'];Positif
+1;['hajarrrr', 'wkwkwk'];Positif
+1;['myeu', 'muh', 'wkwkwk'];Positif
+1;['kira', 'kira', 'ni', 'orang', 'udh', 'berapa', 'kali', 'vaksin', 'ya'];Positif
+1;['anj', 'akunki', 'di', 'blockir', 'wkwkwk'];Positif
+1;['murah', 'iphon', 'cuma', 'juta', 'aja', 'buruan', 'klik', 'link', 'di', 'bawah', 'ini', 'keburu', 'habi'];Positif
+1;['mend', 'urusin', 'harga', 'bensin', 'dulu', 'ya', 'pak', 'baru', 'nanti', 'nyalon', 'presid'];Positif
+1;['mantap', 'bjorkahajarr', 'tuh', 'penjilat'];Positif
+1;['foto', 'bjorkan', 'makin', 'banyak', 'aje', 'gak', 'usah', 'gitulah'];Positif
+1;['panik', 'yaaaa', 'wkwkwk'];Positif
+1;['prriiiiit', 'priiiit', 'mulai', 'offsid', 'kartu', 'kune'];Positif
+1;['cuekin', 'aja', 'beeeeh', 'banyak', 'temennya', 'ditambah', 'kak'];Positif
+1;['wkwk', 'banyak', 'amat', 'nomer', 'nya'];Positif
+1;['giliran', 'si', 'buzzer', 'mulai', 'kena', 'senggol', 'bjorka'];Positif
+1;['ternyata', 'blm', 'bosster', 'giliran', 'kita', 'surh', 'booster'];Positif
+1;['ia', 'udah', 'makasih'];Positif
+1;['halo', 'kpk', 'bpj', 'dana', 'haji', 'halo', 'bjorka', 'dimana', 'kemampuanmu', 'apakah', 'hanya', 'drama', 'sinetron'];Positif
+1;['wkwkwk', 'buzzerrp', 'asu'];Positif
+1;['hahahabjorka', 'alamat', 'lu', 'dimanapingin', 'kirim', 'sate', 'padang', 'selakucireng', 'ama', 'somay'];Positif
+1;['tuh', 'cuitan', 'u', 'berdua', 'dideng', 'bjorka'];Positif
+1;['makin', 'seru'];Positif
+1;['dirujak', 'aja', 'bro', 'bjorka'];Positif
+1;['nahhhh', 'kalo', 'ini', 'mah', 'kulitin', 'aja'];Positif
+1;['salut', 'q', 'bang', 'udah', 'di', 'sapa', 'sama'];Positif
+1;['ayo', 'buktikan', 'gover', 'kita', 'bisa'];Positif
+1;['bianka', 'kamu', 'bernyanyi', 'aja', 'jangan', 'jadi', 'hacker'];Positif
+1;['anjayyy', 'pengen', 'join'];Positif
+1;['banyak', 'di', 'youtub', 'tapi', 'ngga', 'ada', 'yg', 'sama', 'persi', 'sama', 'rasanya'];Positif
+1;['join', 'tele', 'nya', 'gimana', 'sih', 'woi', 'wkwk'];Positif
+1;['punya', 'siapa', 'dong', 'jadinya'];Positif
+1;['ayo', 'report', 'orang', 'ini'];Positif
+1;['biar', 'rame', 'aja', 'lapak', 'twitter'];Positif
+1;['mau', 'maccbook', 'murah', 'seharga', 'juta', 'klik', 'link', 'dibawah', 'ini'];Positif
+1;['lu', 'samsudin', 'ya'];Positif
+1;['blm', 'booster', 'ya'];Positif
+1;['nunggu', 'diundang', 'deddi', 'corbuzi'];Positif
+1;['gassss', 'wkwkwk'];Positif
+1;['harga', 'bbm', 'aja', 'gak', 'mampu', 'diatasi', 'apalagi', 'presiden', 'malah', 'rusak', 'nanti', 'semuanya'];Positif
+1;['anjir', 'beneran', 'nomernya'];Positif
+1;['infon', 'pundi', 'ki'];Positif
+1;['wkwkwk', 'diborong', 'gtu', 'fiq'];Positif
+1;['buzzer', 'anti', 'pemerintah', 'juga', 'sama', 'aja', 'om', 'hahha'];Positif
+1;['waduh', 'makasih', 'infonya'];Positif
+1;['sama'];Positif
+1;['netflix', 'nya', 'qaqa', 'yuk', 'sung', 'order', 'di', 'wa'];Positif
+1;['pakd', 'jokowi', 'lulu', 'ugm', 'tahun', 'berapa', 'ya'];Positif
+1;['lagi', 'nonton', 'drakor', 'adama', 'sama', 'big', 'mouth', 'teru', 'muncul', 'fenomena', 'macam', 'sungguh', 'menambah', 'warna', 'kehidupan'];Positif
+1;['walah', 'kreak', 'semarang', 'jebull', 'wkwkwk'];Positif
+1;['data', 'sebelom', 'onlin', 'aja', 'udh', 'bodo', 'amat', 'pake', 'bungku', 'makanan', 'kartu', 'kk'];Positif
+1;['betul', 'bgt', 'seriu', 'santai'];Positif
+1;['gak', 'bisa', 'di', 'ss', 'ya', 'telegramnya'];Positif
+1;['digembok', 'hilang', 'muncul', 'bjorka', 'yg', 'dilakukan', 'juga', 'sama', 'dox'];Positif
+1;['blm', 'ada', 'yg', 'booster', 'ya'];Positif
+1;['percaya', 'mba'];Positif
+1;['hi', 'bjorka', 'pleas', 'tell', 'us', 'did', 'billi', 'eilish', 'born', 'in', 'nganjuk'];Positif
+1;['ini', 'orang', 'nge', 'solo', 'pemerintah', 'anjirr', 'saat', 'orang', 'orang', 'haru', 'pana', 'panasan', 'ricuh', 'pemerintah', 'santuy', 'saat', 'bjorka', 'duduk', 'santuy', 'tangan', 'di', 'keyboard', 'malah', 'pemerintah', 'yang', 'kocar', 'kacirr', 'keren', 'keren', 'press', 'f', 'for', 'him'];Positif
+1;['ya', 'tuhannn', 'baru', 'sadarr'];Positif
+1;['kominfo', 'dan', 'isilop', 'bisa', 'pake', 'alibi', 'sudah', 'nangkep', 'bjorka', 'skenario', 'pake', 'pemeran', 'dan', 'skrip', 'yang', 'udah', 'disiapkan', 'wakanda', 'pale', 'jago', 'buat', 'sinetron'];Positif
+1;['kan', 'udah', 'ketutupan', 'sama', 'uang'];Positif
+1;['paketan', 'bisa', 'ga', 'sama', 'emaknya', 'sekalian'];Positif
+1;['gilaaa', 'wkwkwk'];Positif
+1;['mau', 'join', 'dong', 'ditel'];Positif
+1;['no', 'gsmnya', 'ada', 'bnyk', 'amat'];Positif
+1;['menarik', 'sih', 'siapapun', 'di', 'belakang', 'nya', 'panjang', 'umur', 'hal', 'hal', 'baik'];Positif
+1;['bang', 'nitip', 'itu', 'tolong', 'ip', 'io', 'nya', 'di', 'samain', 'aja', 'sama', 'ip'];Positif
+1;['bang', 'cariin', 'kenapa', 'opa', 'sama', 'atok', 'dalang', 'apakah', 'mereka', 'dulu', 'punya', 'hubungan', 'seriu'];Positif
+1;['detikdetik', 'follow', 'twitter', 'nya', 'mencapai', 'k', 'dalam', 'x', 'jam'];Positif
+1;['oh', 'bercita', 'jadi', 'presiden'];Positif
+1;['pajak', 'rakyat', 'buat', 'bayarin', 'buzzerp', 'is', 'real', 'ya', 'parah', 'emang', 'pemerentah'];Positif
+1;['pleas', 'abu', 'janda', 'dong', 'kan', 'sekolam', 'sama', 'si', 'deni'];Positif
+1;['wkwkwk', 'mereka', 'mana', 'paham', 'it'];Positif
+1;['banyak', 'amat', 'minta', 'nyawkkk'];Positif
+1;['ow', 'ini', 'ya', 'org', 'nya'];Positif
+1;['biar', 'kutebak', 'pasti', 'kamu', 'orang', 'pemerintahan', 'kan'];Positif
+1;['semakin', 'mendekati', 'mrrobot', 'didunia'];Positif
+1;['pantau', 'bang'];Positif
+1;['yuk', 'ketuk', 'dm', 'tanya', 'atau', 'sung', 'order', 'di', 'wa'];Positif
+1;['summon', 'kita', 'udh', 'ga', 'percaya', 'pemerintah'];Positif
+1;['kebanyakan', 'nonton', 'money', 'heist', 'lu', 'sempak', 'mana', 'nomernya', 'puan', 'maharaniiiii', 'salahituuu'];Positif
+1;['tp', 'bener', 'gak', 'ya', 'dia', 'nglamar', 'pn', 'kehutanan', 'tapi', 'gak', 'diterima'];Positif
+1;['bjorka', 'wujudh', 'asli'];Positif
+1;['cerita', 'dewasa', 'adik', 'ipar'];Positif
+1;['mantap', 'putra', 'aji', 'jelasken'];Positif
+1;['jadi', 'buronan', 'polisi', 'loyali', 'hr', 'malah', 'dukung', 'hacker', 'bjorka', 'bingkar', 'kezaliman', 'pemerintah'];Positif
+1;['tangani', 'hacker', 'bjorka', 'polri', 'berpeluang', 'untuk', 'kerja', 'sama', 'dengan', 'pihak', 'luar', 'negeri'];Positif
+1;['apakah', 'bisa', 'bantu', 'warga', 'yg', 'dalam', 'kesusahan', 'klu', 'emang', 'bener', 'peduli', 'sama', 'indonesia'];Positif
+1;['jakarta', 'hacker', 'bjorka', 'yang', 'beberapa', 'waktu', 'belakangan', 'ini', 'membuat', 'heboh', 'dengan', 'aksi', 'retasnya'];Positif
+1;['video', 'viral', 'pengakuan', 'inikah', 'hacker', 'sebenarnya'];Positif
+1;['di', 'mn', 'kamu', 'berada'];Positif
+1;['nikita', 'mirzani', 'ancam', 'bongkar', 'identita', 'ragukan', 'kemampuan', 'bjorka', 'hacker', 'sentil', 'masa', 'lalu', 'klik', 'selengkapnya'];Positif
+1;['timsu', 'akan', 'pastikan', 'hacker', 'bjorka', 'wna', 'atau', 'wni', 'via'];Positif
+1;['lanjutkan', 'perjuangan'];Positif
+1;['aksi', 'hacker', 'bjorka', 'di', 'dunia', 'maya', 'belum', 'berhenti', 'kemarin', 'dia', 'sempat', 'mengumumkan', 'akun', 'baru', 'di', 'twitter', 'yaitu'];Positif
+1;['pria', 'di', 'madiun', 'ungkap', 'penyesalan', 'setelah', 'jual', 'akunnya', 'ke', 'bjorka'];Positif
+1;['pemuda', 'asal', 'madiun', 'mah', 'menjelaskan', 'kronolog', 'akun', 'telegram', 'dibe', 'oleh', 'hacker', 'bjorka', 'dengan', 'harga', 'yang', 'membuat', 'siapa', 'saja', 'melongo'];Positif
+1;['pemuda', 'madiun', 'akui', 'jual', 'channel', 'telegram', 'ke', 'bjorka', 'seharaga', 'dolar', 'as'];Positif
+1;['kasu', 'bjorka', 'pereta', 'yg', 'belum', 'tertangkap', 'dan', 'mah', 'pemuda', 'madiun', 'yg', 'jadi', 'tersangka', 'membantu', 'bjorka', 'jadi', 'pertaruhan', 'kepolisian', 'dalam', 'menerapkan', 'hukum', 'dan', 'kepercayaan', 'publik'];Positif
+1;['ini', 'si', 'bjorka', 'ngefan', 'sama', 'bjork', 'ngak', 'sih'];Positif
+1;['andai', 'bisa', 'aku', 'ingin', 'berguru', 'ke', 'karena', 'skillnya', 'dapat', 'di', 'lihat', 'dari', 'sisi', 'positifnya'];Positif
+1;['ingin', 'terken', 'dan', 'kaya', 'motif', 'pemuda', 'asal', 'madiun', 'terlibat', 'hacker', 'bjorka'];Positif
+1;['gimna', 'bo', 'anggotanya', 'kok', 'makin', 'ngaco', 'halooohalooo', 'pak'];Positif
+1;['ketika', 'hacker', 'bjorka', 'mengaku', 'punya', 'teman', 'di', 'istana', 'negara', 'sebut', 'dirinya', 'tinggal', 'di', 'polandia', 'via'];Positif
+1;['menteri', 'koordin', 'bidang', 'politik', 'hukum', 'dan', 'keamanan', 'menkopolhukam', 'md', 'mengklaim', 'bahwa', 'pemerintah', 'berhasil', 'mendeteksi'];Positif
+1;['tidak', 'punya', 'komput', 'hanya', 'punya', 'satu', 'ponsel', 'di', 'tangan'];Positif
+1;['jawab', 'tantangan', 'bocorkan', 'data', 'ani', 'baswedan', 'bjorka', 'langsung', 'beri', 'tanggapan', 'ini'];Positif
+1;['kontak', 'admin', 'langsung', 'klik'];Positif
+1;['artinya', 'klo', 'lo', 'liat', 'cew', 'pake', 'berarti', 'lo', 'ada', 'kelaianan', 'krna', 'lingeriethong', 'adlh', 'benda', 'mati'];Positif
+1;['siapakah', 'sebenarnya', 'agung'];Positif
+1;['buntut', 'dituduh', 'sebagai', 'hacker', 'bjorka', 'muhammad', 'said', 'bakal', 'lapor', 'polisi'];Positif
+1;['polisi', 'dikabarkan', 'telah', 'mengamankan', 'hacker', 'bjorka', 'ini', 'respon', 'mabe', 'polri'];Positif
+1;['muhammad', 'said', 'fikriansyah', 'remaja', 'asal', 'kabupaten', 'cirebon', 'jawa', 'barat', 'ramai', 'diperbincangkan', 'karena', 'ditud', 'sebagai', 'sosok', 'hacker', 'bjorka', 'tak', 'terima', 'dituduh', 'said', 'langsung', 'membuat', 'video', 'klarifikasi', 'di', 'akun', 'media', 'sosial', 'miliknya'];Positif
+1;['beber', 'motif', 'hacker', 'bjorka', 'mahfud', 'md', 'ia', 'ingin', 'mengatakan', 'pemerintah', 'lemah'];Positif
+1;['tiga', 'efek', 'domino', 'dari', 'aksi', 'hacker', 'bjorka'];Positif
+1;['akun', 'yg', 'asli', 'sudah', 'hilang', 'bermunculan', 'profil', 'bjorka', 'menurut', 'kakak', 'semua', 'yg', 'asli', 'yang', 'mana', 'yah'];Positif
+1;['atau', 'nih', 'kak', 'say'];Positif
+1;['kabar', 'terbaru', 'pelaku', 'sudah', 'teridentifikasi'];Positif
+1;['terimakasih'];Positif
+1;['belajar', 'baca', 'map', 'dulu', 'baru', 'paham'];Positif
+1;['bjorka', 'bocorkan', 'data', 'bin', 'hingga', 'presiden', 'rocki', 'gerung', 'teknolog', 'selalu', 'punya', 'paradok', 'berharihari', 'menjadi', 'perbincangan', 'publik', 'hacker', 'bjorka', 'kini', 'menuai', 'sorotan', 'beberapa', 'pihak'];Positif
+1;['tantangan', 'buat', 'hacker', 'bjorka'];Positif
+1;['tak', 'berdaya', 'tangani', 'hacker', 'bjorka', 'menkominfo', 'dikabarkan', 'ganti', 'nomor', 'ponsel', 'amerika'];Positif
+1;['hacker', 'bjorka', 'akhirnya', 'pamit', 'setelah', 'menyenggol', 'nama', 'besar', 'ini', 'i', 'will', 'take', 'a', 'rest', 'now'];Positif
+1;['hmmm', 'opini', 'yang', 'bisa', 'diterima', 'gimana', 'menurut', 'sobat', 'vdvc'];Positif
+1;['dokumen', 'pent', 'jokowi', 'di', 'tangan', 'bjorka', 'kasatpr', 'yakin', 'hacker', 'tak', 'mampu', 'bobol', 'ini', 'alasannya'];Positif
+1;['respon', 'santai', 'ani', 'diserang', 'bjorka', 'datanya', 'kebanyakan', 'salah'];Positif
+1;['semakin', 'pana'];Positif
+1;['menanggapi', 'serangkaian', 'aksi', 'peretasan', 'oleh', 'bjorka', 'selama', 'beberapa', 'waktu', 'terakhir', 'menteri', 'komunikasi', 'dan', 'informatika', 'menkominfo', 'johnni', 'g', 'plate'];Positif
+1;['aksi', 'hacker', 'bjorka', 'kembali', 'menyerang', 'pejabat', 'negara', 'politisi', 'hingga', 'pegiat', 'sosial', 'kali', 'ini', 'menkopolhukam', 'mahfud', 'md', 'muhaimin', 'iskandar', 'atau', 'cak', 'imin', 'sampai', 'pegiat', 'media', 'sosial', 'abu', 'janda', 'jadi', 'sasaran', 'peretasan'];Positif
+1;['welcomeperbaiki', 'lebih', 'baik'];Positif
+1;['wagub', 'jatim', 'emil', 'elestianto', 'dardak', 'mengapresiasi', 'langkah', 'yang', 'dilakukan', 'mahasiswa', 'tergabung', 'gerakan', 'nasion', 'mahasiswa', 'nasion', 'indonesia', 'gmni'];Positif
+1;['bjorka', 'membuat', 'khawatir', 'pemerintah'];Positif
+1;['presiden', 'joko', 'widodo', 'bentuk', 'tim', 'khusu', 'untuk', 'menindak', 'hacker', 'bjorka'];Positif
+1;['kemunculan', 'hacker', 'bjorka', 'mengingatkan', 'publik', 'pada', 'istilah', 'dox', 'apa', 'makna', 'dan', 'sanksinya'];Positif
+1;['aksi', 'jebol', 'pagar', 'gedung', 'dprd', 'indramayu'];Positif
+1;['dijual', 'dengan', 'harga', 'sangat', 'murah', 'yakni', 'rp', 'jutaan', 'ternyata', 'skutik', 'new', 'honda', 'cliq', 'memiliki', 'berbagai', 'kelebihan'];Positif
+1;['sejumlah', 'dokumen', 'surat', 'menyurat', 'yang', 'diduga', 'milik', 'presiden', 'joko', 'widodo', 'direta', 'oleh', 'akun', 'bjorka', 'di', 'dalam', 'laman', 'breachforum', 'dilihat', 'dari', 'laman', 'mereka', 'dokumen', 'tersebut', 'memiliki', 'rentang', 'waktu'];Positif
+1;['bjorka', 'heboh', 'hacker', 'bjorka', 'netizen', 'pengalihan', 'isu', 'ferdi', 'sambo', 'kenaikan', 'harga', 'bbm', 'demo', 'maha', 'siswa'];Positif
+1;['siapa', 'hacker', 'bjorka', 'berikut', 'profil', 'dan', 'fakta', 'bjorka', 'beberapa', 'hari', 'belakangan', 'nama', 'hacker', 'bjorka', 'kini', 'menuai', 'sorotan', 'publik', 'dan', 'menjadi', 'incaran', 'para', 'netizen', 'indonesia'];Positif
+1;['apakah', 'ini', 'identita', 'sambo', 'kita', 'lihat', 'nanti', 'lihat', 'video', 'inisi', 'j'];Positif
+1;['terancam', 'dijerat', 'uu', 'ite', 'pengamat', 'keamanan', 'siber', 'nilai', 'hacker', 'bjorka', 'cukup', 'lihai', 'dalam', 'bersembunyi'];Positif
+1;['awal', 'kemunculan', 'bjorka', 'kisah', 'kronolog', 'hacker', 'bjorka', 'mulai', 'mereta', 'data', 'dokumen', 'pemerintah', 'indonesia', 'full'];Positif
+1;['gimana', 'tanggapan', 'sobat', 'vdvc'];Positif
+1;['dalam', 'unggahan', 'di', 'twitter', 'hacker', 'bjorka', 'menyebutkan', 'jika', 'pembunuh', 'munir', 'adalah', 'muchdi', 'purwopranjono', 'yang', 'saat', 'ini', 'menjabat', 'sebagai', 'ketua', 'umum', 'partai', 'berkarya'];Positif
