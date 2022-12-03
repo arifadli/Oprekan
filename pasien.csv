@@ -1,0 +1,12 @@
+Pernafasan,TekDarah,Penglihatan,Kelas
+Baik,Tinggi,Baik,Sehat
+Baik,Normal,Baik,Sehat
+Baik,Normal,Buruk,Sehat
+Baik,Rendah,Buruk,Tidak Sehat
+Normal,Tinggi,Baik,Sehat
+Normal,Normal,Baik,Sehat
+Normal,Normal,Buruk,Sehat
+Normal,Rendah,Buruk,Tidak Sehat
+Buruk,Tinggi,Baik,Sehat
+Buruk,Normal,Buruk,Tidak Sehat
+Buruk,Rendah,Baik,Sehat
