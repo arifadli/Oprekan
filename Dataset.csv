@@ -1,51 +1,27 @@
-ID,JenisKelamin,Umur,PendapatanBulan(Juta),PengeluaranBulanan(%)
-1,Laki-Laki,19,15,39
-2,Laki-Laki,21,15,81
-3,Perempuan,20,16,6
-4,Perempuan,23,16,77
-5,Perempuan,31,17,40
-6,Perempuan,22,17,76
-7,Perempuan,35,18,6
-8,Perempuan,23,18,94
-9,Laki-Laki,64,19,3
-10,Perempuan,30,19,72
-11,Laki-Laki,67,19,14
-12,Perempuan,35,19,99
-13,Perempuan,58,20,15
-14,Perempuan,24,20,77
-15,Laki-Laki,37,20,13
-16,Laki-Laki,22,20,79
-17,Perempuan,35,21,35
-18,Laki-Laki,20,21,66
-19,Laki-Laki,52,23,29
-20,Perempuan,35,23,98
-21,Laki-Laki,35,24,35
-22,Laki-Laki,25,24,73
-23,Perempuan,46,25,5
-24,Laki-Laki,31,25,73
-25,Perempuan,54,28,14
-26,Laki-Laki,29,28,82
-27,Perempuan,45,28,32
-28,Laki-Laki,35,28,61
-29,Perempuan,40,29,31
-30,Perempuan,23,29,87
-31,Laki-Laki,60,30,4
-32,Perempuan,21,30,73
-33,Laki-Laki,53,33,4
-34,Laki-Laki,18,33,92
-35,Perempuan,49,33,14
-36,Perempuan,21,33,81
-37,Perempuan,42,34,17
-38,Perempuan,30,34,73
-39,Perempuan,36,37,26
-40,Perempuan,20,37,75
-41,Perempuan,65,38,35
-42,Laki-Laki,24,38,92
-43,Laki-Laki,48,39,36
-44,Perempuan,31,39,61
-45,Perempuan,49,39,28
-46,Perempuan,24,39,65
-47,Perempuan,50,40,55
-48,Perempuan,27,40,47
-49,Perempuan,29,40,42
-50,Perempuan,31,40,42
+ID,X,Y
+A ,2,2
+B ,2,3
+C ,4,3
+D ,1,4
+E ,6,4
+F ,3,5
+G ,4,6
+H ,2,8
+I ,4,7
+J ,5,9
+K ,3,9
+L ,1,10
+M ,3,11
+N ,2,12
+O ,5,13
+P ,3,14
+Q ,4,15
+R ,3,16
+S ,14,1
+T ,14,3
+U ,15,2
+V ,16,3
+W ,15,4
+X ,18,9
+Y ,19,10
+Z ,20,11
